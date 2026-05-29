@@ -1,0 +1,8854 @@
+### CHUNK 0
+Combustion engine using an eccentric rotary design
+
+
+This article is about a particular pistonless rotary engine. For other pistonless rotary engines, see 
+pistonless rotary engine
+. For piston designs arranged in a rotary configuration, see 
+rotary engine
+.
+
+
+KKM Wankel combustion cycle. 
+A
+ is the apex of the rotor, and 
+B
+ is the eccentric shaft. The distance between A and B remains constant. Three power pulses are produced for each revolution of the rotor, and one power pulse is produced for each revolution of the output shaft.
+
+
+The 
+Wankel engine
+ (
+/
+ˈ
+v
+ʌ
+ŋ
+k
+əl
+/
+, 
+VAHN
+-kəl
+) is a type of 
+internal combustion engine
+ using an 
+eccentric
+ 
+rotary design
+ to convert pressure into rotating motion. The concept was proven by German engineer 
+Felix Wankel
+, followed by a commercially feasible engine designed by German engineer Hanns-Dieter Paschke.
+ The Wankel engine's rotor is similar in shape to a 
+Reuleaux triangle
+, with the sides having less curvature. The rotor spins inside a figure-eight-like 
+epitrochoidal
+ housing around a fixed gear. The midpoint of the rotor moves in a circle around the output shaft, rotating the shaft via a 
+cam
+.
+
+In its basic 
+gasoline
+-fuelled form, the Wankel engine has lower 
+thermal efficiency
+ and higher exhaust emissions relative to the 
+four-stroke reciprocating engine
+. This thermal inefficiency has restricted the Wankel engine to limited use since its introduction in the 1960s. However, many disadvantages have mainly been overcome over the succeeding decades following the development and production of road-going vehicles. The advantages of compact design, smoothness, lower weight, and fewer parts over reciprocating internal combustion engines make Wankel engines suited for applications such as
+
+### CHUNK 1
+ have mainly been overcome over the succeeding decades following the development and production of road-going vehicles. The advantages of compact design, smoothness, lower weight, and fewer parts over reciprocating internal combustion engines make Wankel engines suited for applications such as 
+chainsaws
+, 
+auxiliary power units
+ (APUs), 
+loitering munitions
+, 
+aircraft
+, 
+personal watercraft
+, 
+snowmobiles
+, 
+motorcycles
+, 
+racing cars
+, and 
+automotive range extenders
+.
+
+
+
+
+
+Concept
+[
+edit
+]
+
+
+Rotary engine types
+The first Wankel engine designed by 
+Felix Wankel
+, the DKM 54 (
+Drehkolbenmotor
+), at the Deutsches Museum in 
+Bonn
+Modern KKM Wankel engine with rotor and geared output shaft
+The first KKM Wankel engine based on a design by Hanns-Dieter Paschke, the 
+NSU
+ KKM 57P (
+Kreiskolbenmotor
+), at Autovision und Forum
+The first production Wankel engine as installed in an 
+NSU Spider
+
+
+The Wankel engine is a type of rotary piston engine and exists in two primary forms, the 
+Drehkolbenmotor
+ (DKM, "rotary piston engine"), designed by Felix Wankel, and the 
+Kreiskolbenmotor
+ (KKM, "circuitous piston engine"), designed by Hanns-Dieter Paschke,
+ of which only the latter has left the prototype stage. Thus, all production Wankel engines are of the KKM type.
+
+
+
+In a DKM engine, there are two rotors: the inner triangular rotor, and the outer rotor, which has a circular outer shape, and an figure-eight inner shape. The center shaft is stationary, and torque is taken from the outer rotor, which is geared to the inner rotor.
+
+
+
+
+### CHUNK 2
+ rotors: the inner triangular rotor, and the outer rotor, which has a circular outer shape, and an figure-eight inner shape. The center shaft is stationary, and torque is taken from the outer rotor, which is geared to the inner rotor.
+
+
+In a KKM engine, the outer rotor is part of the stationary housing, and is thus not a moving part. The inner shaft is a moving part with an eccentric lobe for the inner rotor to spin around. The rotor spins around the center of the lobe and around the axis of the eccentric shaft in a 
+hula hoop
+-like fashion, resulting in the rotor making one complete revolution for every three revolutions of the eccentric shaft. Torque is taken from the eccentric shaft,
+ making it a much simpler design to adapt to conventional powertrains.
+
+
+Development
+[
+edit
+]
+
+
+Felix Wankel
+ designed a rotary compressor in the 1920s and received his first patent for a rotary type of engine in 1934.
+ He realized that the triangular rotor of the rotary compressor could have intake and exhaust ports added, producing an internal combustion engine. Eventually, in 1951, Wankel began working at German firm 
+NSU Motorenwerke
+ to design a rotary compressor as a 
+supercharger
+ for NSU's motorcycle engines. Wankel conceived the design of a triangular rotor in the compressor.
+ With the assistance of Professor 
+Othmar Baier
+ [
+de
+]
+ from Stuttgart University of Applied Sciences, the concept was defined mathematically.
+ The supercharger he designed was used for one of NSU's 50 cc (3.1 cu in) 
+two-stroke
+ 
+single-cylinder engines
+. The engine produced a power output of 13.5 PS (10 kW) at 12,000
+ 
+rpm.
+
+
+In 1954, NSU agreed to develop a rotary internal combustion engine with Wankel based upon his supercharger
+
+### CHUNK 3
+ produced a power output of 13.5 PS (10 kW) at 12,000
+ 
+rpm.
+
+
+In 1954, NSU agreed to develop a rotary internal combustion engine with Wankel based upon his supercharger design. Since Wankel was known as a "difficult colleague", the development work for the DKM was carried out at Wankel's private Lindau design bureau. According to John B. Hege, Wankel received help from his friend Ernst Höppner, who was a "brilliant engineer".
+ The first working prototype, DKM 54, first ran on 1 February 1957 at NSU's Versuchsabteilung TX research and development facility. It produced 21 PS (15 kW).
+ Soon after that, a second prototype of the DKM was built. It had a working chamber volume V
+k
+ of 125 cc (7.6 cu in) and also produced 21 kW (29 PS) at 17,000
+ 
+rpm.
+ It could even reach speeds of up to 25,000
+ 
+rpm. However, these engine speeds distorted the outer rotor's shape, thus proving impractical.
+ According to 
+Mazda
+ engineers and historians, four units of the DKM engine were built; the design is described to have a displacement V
+h
+ of 250 cm
+ (equivalent to a working chamber volume V
+k
+ of 125 cc). The fourth unit built is said to have received several design changes, and eventually produced 29 PS (21 kW) at 17,000 rpm; it could reach speeds up to 22,000 rpm. One of the four engines built has been on static display at the 
+Deutsches Museum Bonn
+.
+
+
+Due to its complicated design with a stationary center shaft, the DKM engine was deemed impractical.
+ 
+
+
+### CHUNK 4
+ to 22,000 rpm. One of the four engines built has been on static display at the 
+Deutsches Museum Bonn
+.
+
+
+Due to its complicated design with a stationary center shaft, the DKM engine was deemed impractical.
+ 
+Wolf-Dieter Bensinger
+ explicitly mentions that proper engine cooling cannot be achieved in a DKM engine, and argues that this is the reason why the DKM design had to be abandoned.
+ NSU development chief engineer Walter Froede solved this problem by using Hanns-Dieter Paschke's design and converting the DKM into what would later be known as the KKM.
+ The KKM proved to be a much more practical engine, as it has easily accessible spark plugs, a simpler cooling design, and a conventional power take-off shaft.
+ Wankel disliked Froede's KKM engine because of its inner rotor's eccentric motion, which was not a pure circular motion as Wankel had intended. He remarked that his "race horse" was turned into a "plough horse". Wankel also complained that more stresses would be placed on the KKM's apex seals due to the eccentric motion of the rotor. NSU could not afford to finance developing both the DKM and the KKM, and eventually decided to drop the DKM in favour of the KKM since the latter seemed to be the more practical design.
+
+
+Wankel obtained US patent 2,988,065 on the KKM engine on 13 June 1961.
+ Throughout the design phase of the KKM, Froede's engineering team had to solve problems such as repeated bearing seizures, oil flow issues, and cooling issues.
+ The first fully functioning KKM engine, the KKM 125, weighed in at only 17 kg (37.5 lb), displaced 125 cc (7.6 cu in), and produced 26 PS (19 kW) at 11,000
+ 
+
+
+### CHUNK 5
+125, weighed in at only 17 kg (37.5 lb), displaced 125 cc (7.6 cu in), and produced 26 PS (19 kW) at 11,000
+ 
+rpm.
+ Its first run was on 1 July 1958.
+
+
+In 1963, NSU produced the first series-production Wankel engine for a car, the KKM 502. It was used in the 
+NSU Spider
+ sports car, of which about 2,000 were made. Despite its "teething troubles", the KKM 502 was a powerful engine with decent potential, smooth operation, and low noise emissions at high engine speeds. It was a single-rotor peripheral port engine with a displacement of 996 cm
+ (61 in
+), a rated power of 40 kW (54 hp) at 6,000
+ 
+rpm and a 
+brake mean effective pressure
+ (BMEP) of 1 MPa (145 lbf/in
+).
+
+
+
+
+Early rotary engines
+Mazda
+'s first Wankel engine, precursor to the 10A, at the Mazda Museum in 
+Hiroshima, Japan
+1972 General-Motors-developed Wankel engine cutaway showing twin rotors
+
+
+Evolution
+[
+edit
+]
+
+
+Seal and cooling designs
+Left:
+ 
+NSU Ro 80
+ apex seal
+Right:
+ Mazda 12A and 13B apex seal
+Left
+: Mazda L10A camber axial water cooling
+Middle
+: Audi NSU EA871 axial water cooling, hot bow only
+Right
+: Diamond Engines Wankel radial water cooling, hot bow only
+
+
+Felix Wankel managed to overcome most of the problems that interfered with prior attempts to perfect the Wankel engine, by designing the apex seals with a tip radius equal to the amount of "oversize
+
+### CHUNK 6
+ water cooling, hot bow only
+
+
+Felix Wankel managed to overcome most of the problems that interfered with prior attempts to perfect the Wankel engine, by designing the apex seals with a tip radius equal to the amount of "oversize" of the rotor housing shape relative to the theoretical epitrochoid, to minimize radial apex seal motion, and cylindrical gas-loaded apex pins which strengthened the seals.
+
+
+In the early days, unique, dedicated production machines had to be built for different housing dimensions. However, patented designs such as 
+U.S. patent 3,824,746
+, G. J. Watt, 1974, for a "Wankel Engine Cylinder Generating Machine", 
+U.S. patent 3,916,738
+, "Apparatus for machining and/or treatment of trochoidal surfaces" and 
+U.S. patent 3,964,367
+, "Device for machining trochoidal inner walls", and others, solved such production issues.
+
+Wankel engines have a problem not present in reciprocating piston four-stroke engines in that intake, compression, combustion, and exhaust occur at fixed locations, causing a very uneven thermal load on the rotor housing.
+ In contrast, four-stroke reciprocating engines perform these four strokes in one chamber, so that the extremes of the cold intake and hot exhaust are averaged out and shielded from working parts by a boundary layer. The 
+University of Florida
+ proposed the use of heat pipes in an air-cooled Wankel to overcome this uneven heating of the housing.
+ Pre-heating of certain housing sections with exhaust gas improved performance and fuel economy, also reducing wear and emissions.
+ Boundary layer shields and lubricant film act as thermal insulation, leading to a lower temperature of the film (approximately a maximum of 200 °C (390 °F) on a water-cooled Wankel engine) and a more constant surface temperature. The temperature around the spark plug is about
+
+### CHUNK 7
+ thermal insulation, leading to a lower temperature of the film (approximately a maximum of 200 °C (390 °F) on a water-cooled Wankel engine) and a more constant surface temperature. The temperature around the spark plug is about the same as in the combustion chamber of a reciprocating engine. With circumferential or axial flow cooling, the temperature difference remains tolerable.
+
+
+Problems arose during research in the 1950s and 1960s as engineers were faced with what they called "chatter marks" and "devil's scratch" in the inner epitrochoid surface, resulting in chipping of the chrome coating on the trochoidal surfaces. They discovered that the cause was the apex seals reaching a resonating vibration, and the problem was solved by reducing the thickness and weight of the apex seals as well as using more suitable materials. Scratches disappeared after introducing more compatible materials for seals and housing coatings. 
+Kenichi Yamamoto
+ experimentally lightened apex seals with holes, identifying weight as the main cause and leading Mazda to use aluminum-impregnated carbon apex seals in their early production engines. NSU used carbon antimony-impregnated apex seals against a chrome housing surface; upon developing an "Elnisil" coating to production maturity, it returned to a metal sealing strip for the 
+Ro 80
+. Mazda continued to use a chrome surface, but applied to a steel jacket in the aluminum housing. This allowed Mazda to return to the 3mm and later even 2mm thick metal apex seals.
+ Another early problem was the build-up of cracks in the stator surface near the plug hole, which was eliminated by installing the spark plugs in a separate conductive copper insert instead of screwing them directly into the block housing.
+
+
+
+Toyota found that substituting 
+glow plugs
+ for leading-area spark plugs improved low-RPM partial-load specific fuel consumption by 7%, as well as emissions and idle performance.
+ A
+
+### CHUNK 8
+ copper insert instead of screwing them directly into the block housing.
+
+
+
+Toyota found that substituting 
+glow plugs
+ for leading-area spark plugs improved low-RPM partial-load specific fuel consumption by 7%, as well as emissions and idle performance.
+ A later alternative solution to spark plug boss cooling was a variable coolant velocity scheme for water-cooled rotaries, which was patented by Curtiss-Wright and saw widespread use.
+ These approaches did not require a copper insert, but did not preclude its use. 
+Ford
+ tested a Wankel engine with the plugs placed in the side plates instead of the housing working surface (
+CA 1036073
+ 
+, 1978).
+
+
+Operation and design
+[
+edit
+]
+
+
+Wankel diagram: 
+Intake
+Exhaust
+Stator housing
+Combustion chambers
+Pinion
+Rotor
+Crown gear
+Eccentric shaft
+Spark plug
+
+
+Wankel cycle:
+Intake (blue)
+Compression (green)
+Ignition (red)
+Exhaust (yellow)
+
+
+Video of a two rotor Wankel engine
+
+
+Torque delivery comparison between Wankel and reciprocating engines.
+ 
+ Intake 
+ Compression 
+ Expansion 
+ Exhaust 
+
+
+Chamber pressure, instantaneous unitary torque, instantaneous and average total torque plotted against shaft rotation angle. Instantaneous and average total power plotted against time. Each engine produces an average total power of 76.3 kW at p
+mi
+ = 11.1 bar and 
+p
+me
+ = 8.88 bar.
+
+
+The Wankel engine has a spinning eccentric power take-off shaft with an eccentric lobe around which the rotor revolves. The rotor's crown gear has one and a half times the number of teeth as the gear that is fixed to the housing (a 2:3 gear ratio).
+ The rotor and housing constantly form three moving working chambers.
+ The rotor does not make contact with its housing, so seals at the rotor's
+
+### CHUNK 9
+ times the number of teeth as the gear that is fixed to the housing (a 2:3 gear ratio).
+ The rotor and housing constantly form three moving working chambers.
+ The rotor does not make contact with its housing, so seals at the rotor's apices press against the housing's periphery to prevent pressure loss.
+  The increase in pressure from combustion pushes against the rotor face, in turn transferring force to the eccentric part of the output shaft.
+
+All practical Wankel engines are 
+Otto cycle
+ (i.e., four-stroke) engines, with each of the three rotor faces undergoing its own intake, compression, expansion, and exhaust cycles.
+ The shape of the rotor between the fixed apices is to minimize the volume of the geometric 
+combustion chamber
+ and maximize the 
+compression ratio
+, respectively.
+ In theory, two-cycle engines are possible, but they are impractical because the intake gas and the exhaust gas cannot be properly separated.
+ As the 
+Diesel cycle
+ with its 
+compression ignition
+ cannot be used in a practical Wankel engine,
+ Wankel engines typically have a high-voltage 
+spark ignition
+ system.
+
+
+Wankel engines have a much lower degree of irregularity relative to a reciprocating engines, leading to much smoother operation. This is because the Wankel engine has a lower moment of inertia and more uniform torque delivery. For example, a two-rotor Wankel engine runs more than twice as smoothly as a four-cylinder piston engine.
+ The eccentric output shaft of a Wankel engine also lacks the stress-related contours of a reciprocating engine's 
+crankshaft
+. The maximum engine speed of a Wankel engine is thus mainly limited by load on the synchronizing gears' teeth.
+ Hardened steel gears are used for extended operation above 7,000 or 8,000
+ 
+rpm. In practice, automotive Wankel engines are not operated at much higher output shaft speeds than recip
+
+### CHUNK 10
+ on the synchronizing gears' teeth.
+ Hardened steel gears are used for extended operation above 7,000 or 8,000
+ 
+rpm. In practice, automotive Wankel engines are not operated at much higher output shaft speeds than reciprocating piston engines of similar output. Wankel engines in auto racing are operated at speeds up to 10,000
+ 
+rpm, but so are four-stroke reciprocating piston engines with relatively small displacement per cylinder. In aircraft, they are used conservatively, reaching 6500 or 7500
+ 
+rpm.
+
+
+
+Torque delivery
+[
+edit
+]
+
+
+Wankel engines are capable of high-speed operation, meaning they do not necessarily need to produce high torque to produce high power. The positioning of the intake port and intake port closing greatly affect the engine's torque production. Early closing of the intake port increases low-end torque, but reduces high-end torque (and thus power). In contrast, late closing of the intake port reduces low-end torque while increasing torque at high engine speeds, thus resulting in more power at higher engine speeds.
+
+
+A peripheral intake port results in the highest mean effective pressure throughout the RPM range (though moreso at high RPM and particularly if rectangular
+); however, side intake porting produces a more steady idle,
+ because it helps to prevent blow-back of burned gases into the intake ducts, which causes a "misfire" that manifests as alternating cycles of successful and unsuccessful mixture ignition. Peripheral porting is also linked to worse partial-load performance. Early work by Toyota
+ led to the addition of a fresh air supply to the exhaust port. It also proved that a 
+reed valve
+ in the intake port or duct
+ improved low-RPM partial-load performance of Wankel engines by preventing blow-back of exhaust gas into the intake at the cost of a slight loss of top-end power. Elasticity is improved with a greater rotor eccentricity, analogous to a longer stroke in a reciprocating engine
+
+### CHUNK 11
+ performance of Wankel engines by preventing blow-back of exhaust gas into the intake at the cost of a slight loss of top-end power. Elasticity is improved with a greater rotor eccentricity, analogous to a longer stroke in a reciprocating engine.
+
+Wankel engines operate better with a low-pressure exhaust system. Higher exhaust 
+back pressure
+ reduces mean effective pressure, especially in peripheral intake port engines. The 
+Mazda RX-8
+'s 
+Renesis
+ engine improved performance by doubling the exhaust port area relative to earlier designs, and there have been studies of the effect of intake and exhaust piping configuration on the performance of Wankel engines.
+ Side intake ports, as used in the Renesis, were first proposed by Hanns-Dieter Paschke in the late 1950s. Paschke predicted that precisely calculated intake ports and intake manifolds could make a side port engine as powerful as a peripheral port engine.
+
+
+
+
+Materials
+[
+edit
+]
+
+
+As formerly described, the Wankel engine is affected by unequal 
+thermal expansion
+ due to the four cycles taking place in fixed places of the engine. While this puts great demands on the materials used, the simplicity of the Wankel makes it easier to use materials such as exotic alloys and 
+ceramics
+. A commonplace method is, for engine housings made of aluminum, to use a spurted 
+molybdenum
+ layer on the engine housing for the combustion chamber area, and a spurted steel layer elsewhere. Engine housings cast from iron can be induction-brazed to make the material suitable for withstanding combustion heat stress.
+
+
+Among the alloys cited for Wankel housing use are A-132, Inconel 625, and 356 treated to T6 hardness. Several materials have been used for plating the housing working surface, 
+Nikasil
+ being one. Citroën, Daimler-Benz, Ford, A P Grazen, and
+
+### CHUNK 12
+ 625, and 356 treated to T6 hardness. Several materials have been used for plating the housing working surface, 
+Nikasil
+ being one. Citroën, Daimler-Benz, Ford, A P Grazen, and others applied for patents in this field. For the apex seals, the choice of materials has evolved along with the experience gained, from carbon alloys, to steel, 
+ferritic stainless
+, 
+ferrotitanium
+ with carbon, and other materials.
+ The optimal combination of plating and seal materials was determined experimentally, to obtain the best duration of both the seals and housing. For the shaft, steel alloys with little deformation on load are preferred, such as 
+maraging steel
+.
+
+
+
+Sealing
+[
+edit
+]
+
+
+Early engine designs had a high incidence of sealing loss, both between the rotor and the housing and also between the various pieces making up the housing. Also, in earlier Wankel engines, carbon particles could become trapped between the seal and the housing, jamming the engine and requiring a partial rebuild. It was common for very early Mazda engines to require rebuilding after 50,000 miles (80,000 km). Further sealing problems arose from the uneven thermal distribution within the housing, causing distortion, loss of sealing, loss of compression, and uneven wear between the apex seal and the rotor housing, evident on higher mileage engines.
+ Stressing the engine before it reached 
+operating temperature
+ would exacerbate these problems, which were eventually solved by Mazda. Current engines have nearly 100 seal-related parts.
+
+
+The problem of clearance for hot rotor apices passing between the axially closer side housings in the cooler intake lobe areas was dealt with by using an axial rotor pilot radially inboard of the oil seals, plus improved inertia oil cooling of the rotor interior (C-W 
+US 3261542
+ 
+, C. Jones, 5/8/63, 
+US 3176915
+
+
+### CHUNK 13
+ rotor pilot radially inboard of the oil seals, plus improved inertia oil cooling of the rotor interior (C-W 
+US 3261542
+ 
+, C. Jones, 5/8/63, 
+US 3176915
+ 
+, M. Bentele, C. Jones. A.H. Raye. 7/2/62), and slightly "crowned" apex seals (with a different height in the center than the ends).
+
+
+
+
+Fuel economy and emissions
+[
+edit
+]
+
+
+Early Wankel engines had poor fuel economy due to the Wankel engine's combustion chamber shape and large surface area. The Wankel engine's design is, on the other hand, much less prone to 
+engine knocking
+,
+ which allows for the use of low-
+octane
+ fuels without reducing compression. NSU tested low octane gasoline at the suggestion of Felix Wankel. On a trial basis, 40-octane gasoline was produced by BV Aral, which was used in the DKM 54 test engine with a compression ratio of 8:1; it ran without complaint. This upset the petrochemical industry in Europe, which had invested considerable sums of money in new plants for the production of higher quality gasoline.
+
+
+Direct injection stratified charge engines can be operated with fuels with particularly low octane numbers, such as diesel fuel, which only has an octane number of around 25.
+ As a result of worse efficiency, a Wankel engine with peripheral exhaust porting has a larger amount of unburnt 
+hydrocarbons
+ (HC) released into the exhaust.
+ The exhaust is, however, relatively low in 
+nitrogen oxide
+ (NOx) emissions, because combustion is slow and temperatures are lower than in other engines, and also because of the Wankel engine's good 
+exhaust gas recirculation
+ (EGR) behavior. 
+Carbon monoxide
+ (CO) emissions of Wank
+
+### CHUNK 14
+ because combustion is slow and temperatures are lower than in other engines, and also because of the Wankel engine's good 
+exhaust gas recirculation
+ (EGR) behavior. 
+Carbon monoxide
+ (CO) emissions of Wankel and Otto engines are about the same.
+
+
+The Wankel engine has a significantly higher (Δt
+K
+>100 K) exhaust gas temperature than a reciprocating Otto engine, especially under low- and medium-load conditions. This is because of the higher combustion frequency and slower combustion. Exhaust gas temperatures can exceed 1,300 K (1,030 °C; 1,880 °F) under high load at engine speeds of 6000 rpm. To improve the exhaust gas behavior of the Wankel engine, an exhaust manifold reactor or 
+catalytic converter
+ may be used to reduce hydrocarbon and carbon monoxide emissions.
+
+
+Mazda uses a dual ignition system with two spark plugs per chamber. This both increases power output and reduces HC emissions. At the same time, HC emissions can be lowered by reducing the pre-ignition of the T leading plug relative to the L trailing plug. This leads to internal afterburning and reduces HC emissions. On the other hand, the same ignition timing of the two plugs leads to higher energy conversion. Hydrocarbons adhering to the combustion chamber wall are expelled into the exhaust at the peripheral outlet.
+ Mazda used 3 spark plugs per chamber in their racing R26B engine. The third spark plug ignites the mixture in the trailing side before the "squish" is generated, causing the mixture to burn completely and also speeding up flame propagation, which improves fuel consumption.
+
+
+According to Curtiss-Wright research, the factor that controls the amount of unburnt hydrocarbons in the exhaust is the rotor surface temperature, with higher temperatures resulting in fewer hydrocarbons in the exhaust.
+ Curtiss-Wright widened the rotor, keeping the
+
+### CHUNK 15
+iss-Wright research, the factor that controls the amount of unburnt hydrocarbons in the exhaust is the rotor surface temperature, with higher temperatures resulting in fewer hydrocarbons in the exhaust.
+ Curtiss-Wright widened the rotor, keeping the rest of the engine's architecture unchanged, thus reducing friction losses and increasing displacement and power output. The limiting factor for this widening was mechanical, particularly shaft deflection at high engine speeds.
+ Quenching is the dominant source of hydrocarbons at high speeds and leakage at low speeds.
+ Using side porting, which allows the exhaust port to close around 
+top dead centre
+, reduces intake and exhaust overlap and thus improves fuel consumption.
+
+
+Mazda's RX-8 with the Renesis engine met the 
+United States' low emissions vehicle (LEV-II) standard
+ in 2004.
+ This was mainly achieved by using side porting: The exhaust port, which in earlier Mazda Wankel engines was located in the rotor housing, was moved to the side of the combustion chamber. This approach allowed Mazda to eliminate overlap between intake and exhaust port openings while simultaneously increasing the exhaust port area. This design improved combustion stability in the low-speed and light load range, and reduced HC emissions by 35–50% compared to a peripheral exhaust port Wankel engine. However, the RX-8 was not improved to meet 
+Euro 5 emission regulations
+, and it was discontinued in 2012.
+ The new 8C engine in the 
+Mazda MX-30
+ R-EV meets the Euro 6d-ISC-FCM emissions standard.
+
+
+
+
+Chamber volume
+[
+edit
+]
+
+
+In a Wankel engine, the chamber volume 
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+k
+
+
+
+
+
+
+
+
+
+
+{\displaystyle V_{k}}
+
+
+
+
+ is equivalent to the product of the rotor surface 
+
+
+
+
+
+
+
+
+
+
+A
+
+
+
+
+k
+
+
+
+
+
+
+
+
+
+
+{\displaystyle A_{k}}
+
+
+
+
+ and the rotor path 
+
+
+
+
+
+
+
+
+s
+
+
+
+
+
+
+{\displaystyle s}
+
+
+
+
+. The rotor surface 
+
+
+
+
+
+
+
+
+
+
+A
+
+### CHUNK 16
+displaystyle V_{k}}
+
+
+
+
+ is equivalent to the product of the rotor surface 
+
+
+
+
+
+
+
+
+
+
+A
+
+
+
+
+k
+
+
+
+
+
+
+
+
+
+
+{\displaystyle A_{k}}
+
+
+
+
+ and the rotor path 
+
+
+
+
+
+
+
+
+s
+
+
+
+
+
+
+{\displaystyle s}
+
+
+
+
+. The rotor surface 
+
+
+
+
+
+
+
+
+
+
+A
+
+
+
+
+k
+
+
+
+
+
+
+
+
+
+
+{\displaystyle A_{k}}
+
+
+
+
+ is given by the rotor apices' path across the housing and determined by the generating radius 
+
+
+
+
+
+
+
+
+R
+
+
+
+
+
+
+{\displaystyle R}
+
+
+
+
+, the rotor width 
+
+
+
+
+
+
+
+
+B
+
+
+
+
+
+
+{\displaystyle B}
+
+
+
+
+, and the parallel transfers of the rotor and the inner housing 
+
+
+
+
+
+
+
+
+a
+
+
+
+
+
+
+{\displaystyle a}
+
+
+
+
+. Since the rotor has a trochoid (triangular) shape, the sine of 60 degrees describes the interval at which the rotor apices get closest to the housing. Therefore,
+
+
+
+
+
+
+
+
+
+
+
+
+
+A
+
+
+
+
+k
+
+
+
+
+
+
+=
+
+
+2
+
+
+⋅
+
+
+B
+
+
+⋅
+
+
+(
+
+
+R
+
+
++
+
+
+a
+
+
+)
+
+
+⋅
+
+
+sin
+
+
+⁡
+
+
+(
+
+
+
+
+60
+
+
+
+
+∘
+
+
+
+
+
+
+)
+
+
+=
+
+
+
+
+
+
+3
+
+
+
+
+
+
+⋅
+
+
+B
+
+
+⋅
+
+
+(
+
+
+R
+
+
++
+
+
+a
+
+
+)
+
+
+
+
+
+
+{\displaystyle A_{k}=2\cdot B\cdot (R+a)\cdot \sin(60^{\circ })={\sqrt {3}}\cdot B\cdot (R+a)}
+
+
+
+
+
+
+The rotor path 
+
+
+
+
+
+
+
+
+s
+
+
+
+
+
+
+{\displaystyle s}
+
+
+
+
+ may be integrated via the eccentricity 
+
+
+
+
+
+
+
+
+e
+
+
+
+
+
+
+{\displaystyle e}
+
+
+
+
+ as follows:
+
+
+
+
+
+
+
+
+
+
+
+∑
+
+
+
+
+d
+
+
+s
+
+
+=
+
+
+
+
+∫
+
+
+
+
+α
+
+
+=
+
+
+
+
+0
+
+
+
+
+∘
+
+
+
+
+
+
+
+
+
+
+α
+
+
+=
+
+
+
+
+270
+
+
+
+
+∘
+
+
+
+
+
+
+
+
+
+
+e
+
+
+⋅
+
+
+sin
+
+
+⁡
+
+
+
+
+
+
+2
+
+
+3
+
+
+
+
+
+
+α
+
+
+
+
+d
+
+
+α
+
+
+=
+
+
+3
+
+
+e
+
+
+
+
+
+
+{\displaystyle \sum \,ds=\int _{\alpha =0^{\circ }}^{\alpha =270^{\circ }}e\cdot \sin {\frac {2}{3}}
+
+### CHUNK 17
+d
+
+
+α
+
+
+=
+
+
+3
+
+
+e
+
+
+
+
+
+
+{\displaystyle \sum \,ds=\int _{\alpha =0^{\circ }}^{\alpha =270^{\circ }}e\cdot \sin {\frac {2}{3}}\alpha \,d\alpha =3e}
+
+
+
+
+
+
+Therefore,
+
+
+
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+k
+
+
+
+
+
+
+=
+
+
+
+
+A
+
+
+
+
+k
+
+
+
+
+
+
+⋅
+
+
+s
+
+
+=
+
+
+
+
+
+
+3
+
+
+
+
+
+
+⋅
+
+
+B
+
+
+⋅
+
+
+(
+
+
+R
+
+
++
+
+
+a
+
+
+)
+
+
+⋅
+
+
+3
+
+
+e
+
+
+
+
+
+
+{\displaystyle V_{k}=A_{k}\cdot s={\sqrt {3}}\cdot B\cdot (R+a)\cdot 3e}
+
+
+
+
+
+
+For convenience, 
+
+
+
+
+
+
+
+
+a
+
+
+
+
+
+
+{\displaystyle a}
+
+
+
+
+ may be omitted because it is difficult to determine and small:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+k
+
+
+
+
+
+
+=
+
+
+
+
+
+
+3
+
+
+
+
+
+
+⋅
+
+
+B
+
+
+⋅
+
+
+R
+
+
+⋅
+
+
+3
+
+
+e
+
+
+
+
+
+
+{\displaystyle V_{k}={\sqrt {3}}\cdot B\cdot R\cdot 3e}
+
+
+
+
+
+
+A different approach to this is introducing 
+
+
+
+
+
+
+
+
+
+
+a
+
+
+′
+
+
+
+
+
+
+
+
+{\displaystyle a'}
+
+
+
+
+ as the farthest, and 
+
+
+
+
+
+
+
+
+a
+
+
+
+
+
+
+{\displaystyle a}
+
+
+
+
+ as the shortest parallel transfer of the rotor and the inner housing and assuming that 
+
+
+
+
+
+
+
+
+
+
+R
+
+
+
+
+1
+
+
+
+
+
+
+=
+
+
+R
+
+
++
+
+
+a
+
+
+
+
+
+
+{\displaystyle R_{1}=R+a}
+
+
+
+
+ and 
+
+
+
+
+
+
+
+
+
+
+R
+
+
+
+
+2
+
+
+
+
+
+
+=
+
+
+R
+
+
++
+
+
+
+
+a
+
+
+′
+
+
+
+
+
+
+
+
+{\displaystyle R_{2}=R+a'}
+
+
+
+
+. Then,
+
+
+
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+k
+
+
+
+
+
+
+=
+
+
+
+
+
+
+3
+
+
+
+
+
+
+⋅
+
+
+B
+
+
+⋅
+
+
+(
+
+
+2
+
+
+⋅
+
+
+
+
+R
+
+
+
+
+1
+
+
+
+
+
+
++
+
+
+
+
+R
+
+
+
+
+2
+
+
+
+
+
+
+)
+
+
+⋅
+
+
+e
+
+
+
+
+
+
+{\displaystyle V_{k}={\sqrt {3}}\cdot B\cdot (2\cdot R_{1}
+
+### CHUNK 18
+
+
+
+2
+
+
+⋅
+
+
+
+
+R
+
+
+
+
+1
+
+
+
+
+
+
++
+
+
+
+
+R
+
+
+
+
+2
+
+
+
+
+
+
+)
+
+
+⋅
+
+
+e
+
+
+
+
+
+
+{\displaystyle V_{k}={\sqrt {3}}\cdot B\cdot (2\cdot R_{1}+R_{2})\cdot e}
+
+
+
+
+
+
+Including the parallel transfers of the rotor and the inner housing provides sufficient accuracy for determining chamber volume.
+
+
+
+
+Equivalent displacement and power output
+[
+edit
+]
+
+
+Different approaches have been used over time to evaluate the total displacement of a Wankel engine in relation to a reciprocating engine, considering only one, two, or all three chambers.
+ Part of this dispute was because of European 
+vehicle taxation
+ being dependent on engine displacement, as reported by 
+Karl Ludvigsen
+.
+
+
+If 
+
+
+
+
+
+
+
+
+y
+
+
+
+
+
+
+{\displaystyle y}
+
+
+
+
+ is the number of chambers considered for each rotor and 
+
+
+
+
+
+
+
+
+i
+
+
+
+
+
+
+{\displaystyle i}
+
+
+
+
+ the number of rotors, then the total displacement is:
+
+
+
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+h
+
+
+
+
+
+
+=
+
+
+y
+
+
+⋅
+
+
+
+
+V
+
+
+
+
+k
+
+
+
+
+
+
+⋅
+
+
+i
+
+
+.
+
+
+
+
+
+
+{\displaystyle V_{h}=y\cdot V_{k}\cdot i.}
+
+
+
+
+
+
+If 
+
+
+
+
+
+
+
+
+
+
+p
+
+
+
+
+m
+
+
+e
+
+
+
+
+
+
+
+
+
+
+{\displaystyle p_{me}}
+
+
+
+
+ is the 
+mean effective pressure
+, 
+
+
+
+
+
+
+
+
+N
+
+
+
+
+
+
+{\displaystyle N}
+
+
+
+
+ the shaft 
+rotational speed
+ and 
+
+
+
+
+
+
+
+
+
+
+n
+
+
+
+
+c
+
+
+
+
+
+
+
+
+
+
+{\displaystyle n_{c}}
+
+
+
+
+ the number of shaft revolutions needed to complete a 
+cycle
+ (
+
+
+
+
+
+
+
+
+N
+
+
+
+
+/
+
+
+
+
+
+
+n
+
+
+
+
+c
+
+
+
+
+
+
+
+
+
+
+{\displaystyle N/n_{c}}
+
+
+
+
+ is the frequency of the thermodynamic cycle), then the total power output is:
+
+
+
+
+
+
+
+
+
+
+
+P
+
+
+=
+
+
+
+
+p
+
+
+
+
+m
+
+
+e
+
+
+
+
+
+
+⋅
+
+
+
+
+V
+
+
+
+
+h
+
+
+
+
+
+
+⋅
+
+
+
+
+
+
+N
+
+
+
+
+n
+
+
+
+
+c
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+p
+
+
+
+
+m
+
+
+e
+
+
+
+
+
+
+⋅
+
+
+y
+
+
+⋅
+
+
+
+
+V
+
+
+
+
+k
+
+
+
+
+
+
+⋅
+
+
+i
+
+### CHUNK 19
+
+
+
+
+
+m
+
+
+e
+
+
+
+
+
+
+⋅
+
+
+
+
+V
+
+
+
+
+h
+
+
+
+
+
+
+⋅
+
+
+
+
+
+
+N
+
+
+
+
+n
+
+
+
+
+c
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+p
+
+
+
+
+m
+
+
+e
+
+
+
+
+
+
+⋅
+
+
+y
+
+
+⋅
+
+
+
+
+V
+
+
+
+
+k
+
+
+
+
+
+
+⋅
+
+
+i
+
+
+⋅
+
+
+
+
+
+
+N
+
+
+
+
+n
+
+
+
+
+c
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+{\displaystyle P=p_{me}\cdot V_{h}\cdot {N \over n_{c}}=p_{me}\cdot y\cdot V_{k}\cdot i\cdot {N \over n_{c}}.}
+
+
+
+
+
+
+One chamber
+[
+edit
+]
+
+
+Kenichi Yamamoto
+ and 
+Walter G. Froede
+ placed 
+
+
+
+
+
+
+
+
+y
+
+
+=
+
+
+1
+
+
+
+
+
+
+{\displaystyle y=1}
+
+
+
+
+ and 
+
+
+
+
+
+
+
+
+
+
+n
+
+
+
+
+c
+
+
+
+
+
+
+=
+
+
+1
+
+
+
+
+
+
+{\displaystyle n_{c}=1}
+
+
+
+
+:
+
+
+
+
+
+
+
+
+
+
+
+
+P
+
+
+=
+
+
+
+
+p
+
+
+
+
+m
+
+
+e
+
+
+
+
+
+
+⋅
+
+
+1
+
+
+⋅
+
+
+
+
+V
+
+
+
+
+k
+
+
+
+
+
+
+⋅
+
+
+i
+
+
+⋅
+
+
+
+
+
+
+N
+
+
+1
+
+
+
+
+
+
+.
+
+
+
+
+
+
+{\displaystyle P=p_{me}\cdot 1\cdot V_{k}\cdot i\cdot {N \over 1}.}
+
+
+
+
+
+
+With these values, a single-rotor Wankel engine produces the same average power as a 
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+h
+
+
+
+
+
+
+
+
+
+
+{\displaystyle V_{h}}
+
+
+
+
+ single-cylinder 
+two-stroke engine
+, with the same average torque and the shaft running at the same speed, operating the unitary Otto cycle at triple the frequency.
+
+
+
+Two chambers
+[
+edit
+]
+
+
+Richard Franz Ansdale, 
+Wolf-Dieter Bensinger
+ and 
+Felix Wankel
+ based their analogy on the number of cumulative expansion strokes per shaft revolution. In a Wankel engine, the eccentric shaft must make three full rotations (1080°) per combustion chamber to complete all four phases of a four-stroke engine. Since a Wankel engine has three combustion chambers
+
+### CHUNK 20
+ strokes per shaft revolution. In a Wankel engine, the eccentric shaft must make three full rotations (1080°) per combustion chamber to complete all four phases of a four-stroke engine. Since a Wankel engine has three combustion chambers, all four phases of a four-stroke engine are completed within one full rotation of the eccentric shaft (360°), and one power pulse is produced at each revolution of the shaft.
+ This is different from a four-stroke piston engine, which needs to make two full rotations per combustion chamber to complete all four phases of a four-stroke engine. Thus, in a Wankel engine, according to Bensinger, displacement (
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+h
+
+
+
+
+
+
+
+
+
+
+{\displaystyle V_{h}}
+
+
+
+
+) is:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+h
+
+
+
+
+
+
+=
+
+
+2
+
+
+
+
+V
+
+
+
+
+k
+
+
+
+
+
+
+⋅
+
+
+i
+
+
+
+
+
+
+{\displaystyle V_{h}=2V_{k}\cdot i}
+
+
+
+
+
+
+If power is to be derived from BMEP, the four-stroke engine formula applies:
+
+
+
+
+
+
+
+
+
+
+
+P
+
+
+=
+
+
+
+
+
+
+p
+
+
+
+
+me
+
+
+
+
+
+
+⋅
+
+
+
+
+V
+
+
+
+
+h
+
+
+
+
+
+
+⋅
+
+
+
+
+
+
+N
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+{\displaystyle P={p_{\text{me}}\cdot V_{\text{h}}\cdot {N \over 2}}}
+
+
+
+
+
+
+With this values, a single-rotor Wankel engine produces the same average power as a 
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+h
+
+
+
+
+
+
+
+
+
+
+{\displaystyle V_{h}}
+
+
+
+
+ two-cylinder four-stroke engine, with the same average torque and the shaft running at the same speed, operating the unitary Otto cycles at 3/2 the frequency.
+
+
+
+Three chambers
+[
+edit
+]
+
+
+Felix Heinrich Wankel
+ in his early patent, Eugen Wilhelm Huber, and Karl-Heinz Küttner counted all the chambers, since each one has its own thermodynamic cycle. So 
+
+
+
+
+
+
+
+
+y
+
+
+=
+
+
+3
+
+
+
+
+
+
+{\displaystyle y=3
+
+### CHUNK 21
+
+ in his early patent, Eugen Wilhelm Huber, and Karl-Heinz Küttner counted all the chambers, since each one has its own thermodynamic cycle. So 
+
+
+
+
+
+
+
+
+y
+
+
+=
+
+
+3
+
+
+
+
+
+
+{\displaystyle y=3}
+
+
+
+
+ and 
+
+
+
+
+
+
+
+
+
+
+n
+
+
+
+
+c
+
+
+
+
+
+
+=
+
+
+3
+
+
+
+
+
+
+{\displaystyle n_{c}=3}
+
+
+
+
+:
+
+
+
+
+
+
+
+
+
+
+
+
+P
+
+
+=
+
+
+
+
+p
+
+
+
+
+m
+
+
+e
+
+
+
+
+
+
+⋅
+
+
+3
+
+
+⋅
+
+
+
+
+V
+
+
+
+
+k
+
+
+
+
+
+
+⋅
+
+
+i
+
+
+⋅
+
+
+
+
+
+
+N
+
+
+3
+
+
+
+
+
+
+.
+
+
+
+
+
+
+{\displaystyle P=p_{me}\cdot 3\cdot V_{k}\cdot i\cdot {N \over 3}.}
+
+
+
+
+
+
+With these values, a single-rotor Wankel engine produces the same average power as a 
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+h
+
+
+
+
+
+
+
+
+
+
+{\displaystyle V_{h}}
+
+
+
+
+ three-cylinder four-stroke engine, with 3/2 of the average torque and the shaft running at 2/3 the speed, operating the unitary Otto cycles at the same frequency:
+
+
+
+
+
+
+
+
+
+
+
+P
+
+
+=
+
+
+
+
+p
+
+
+
+
+m
+
+
+e
+
+
+
+
+
+
+⋅
+
+
+3
+
+
+⋅
+
+
+
+
+V
+
+
+
+
+k
+
+
+
+
+
+
+⋅
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+3
+
+
+
+
+
+
+N
+
+
+
+
+2
+
+
+
+
+
+
+.
+
+
+
+
+
+
+{\displaystyle P=p_{me}\cdot 3\cdot V_{k}\cdot {{2 \over 3}N \over 2}.}
+
+
+
+
+
+
+Applying a 2:3 
+gear set
+ to the output shaft of the three-cylinder (or a 3:2 one to the Wankel), the two are analogous from the thermodynamic and mechanical output point of view, as pointed out by Huber.
+
+
+
+
+Examples (two chambers)
+[
+edit
+]
+
+
+KKM 612 (
+NSU Ro 80
+)
+
+
+e=14 mm
+
+
+R=100 mm
+
+
+a=2 mm
+
+
+B=67 mm
+
+
+i=2
+
+
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+k
+
+
+
+
+
+
+=
+
+
+
+
+
+
+3
+
+### CHUNK 22
+ chambers)
+[
+edit
+]
+
+
+KKM 612 (
+NSU Ro 80
+)
+
+
+e=14 mm
+
+
+R=100 mm
+
+
+a=2 mm
+
+
+B=67 mm
+
+
+i=2
+
+
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+k
+
+
+
+
+
+
+=
+
+
+
+
+
+
+3
+
+
+
+
+
+
+⋅
+
+
+67
+
+
+
+
+m
+
+
+m
+
+
+⋅
+
+
+(
+
+
+100
+
+
++
+
+
+2
+
+
+
+
+m
+
+
+m
+
+
+)
+
+
+⋅
+
+
+3
+
+
+⋅
+
+
+
+
+14
+
+
+
+
+m
+
+
+m
+
+
+≈
+
+
+498
+
+
+,
+
+
+000
+
+
+
+
+m
+
+
+
+
+m
+
+
+
+
+3
+
+
+
+
+
+
+=
+
+
+498
+
+
+
+
+c
+
+
+
+
+m
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+{\displaystyle V_{k}={\sqrt {3}}\cdot 67\,mm\cdot (100+2\,mm)\cdot 3\cdot \,14\,mm\approx 498,000\,mm^{3}=498\,cm^{3}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+h
+
+
+
+
+
+
+=
+
+
+2
+
+
+⋅
+
+
+498
+
+
+
+
+c
+
+
+
+
+m
+
+
+
+
+3
+
+
+
+
+
+
+⋅
+
+
+2
+
+
+=
+
+
+1
+
+
+,
+
+
+992
+
+
+ 
+
+
+c
+
+
+
+
+m
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+{\displaystyle V_{h}=2\cdot 498\,cm^{3}\cdot 2=1,992\ cm^{3}}
+
+
+
+
+
+
+Mazda 13B-REW (
+Mazda RX-7
+)
+
+
+e=15 mm
+
+
+R=103 mm
+
+
+a=2 mm
+
+
+B=80 mm
+
+
+i=2
+
+
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+k
+
+
+
+
+
+
+=
+
+
+
+
+
+
+3
+
+
+
+
+
+
+⋅
+
+
+80
+
+
+
+
+m
+
+
+m
+
+
+⋅
+
+
+(
+
+
+103
+
+
++
+
+
+2
+
+
+
+
+m
+
+
+m
+
+
+)
+
+
+⋅
+
+
+3
+
+
+⋅
+
+
+
+
+15
+
+
+
+
+m
+
+
+m
+
+
+≈
+
+
+654
+
+
+,
+
+
+000
+
+
+
+
+m
+
+
+
+
+m
+
+
+
+
+3
+
+
+
+
+
+
+=
+
+
+654
+
+
+
+
+c
+
+
+
+
+m
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+{\displaystyle V_{k}={\sqrt {3}}\cdot 80\,mm\cdot (103+2\,mm)\cdot
+
+### CHUNK 23
+,
+
+
+000
+
+
+
+
+m
+
+
+
+
+m
+
+
+
+
+3
+
+
+
+
+
+
+=
+
+
+654
+
+
+
+
+c
+
+
+
+
+m
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+{\displaystyle V_{k}={\sqrt {3}}\cdot 80\,mm\cdot (103+2\,mm)\cdot 3\cdot \,15\,mm\approx 654,000\,mm^{3}=654\,cm^{3}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+h
+
+
+
+
+
+
+=
+
+
+2
+
+
+⋅
+
+
+654
+
+
+
+
+c
+
+
+
+
+m
+
+
+
+
+3
+
+
+
+
+
+
+⋅
+
+
+2
+
+
+=
+
+
+2
+
+
+,
+
+
+616
+
+
+ 
+
+
+c
+
+
+
+
+m
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+{\displaystyle V_{h}=2\cdot 654\,cm^{3}\cdot 2=2,616\ cm^{3}}
+
+
+
+
+
+
+Regulations and taxation
+[
+edit
+]
+
+
+National agencies that tax automobiles according to displacement and regulatory bodies in auto racing use a variety of equivalency factors to compare Wankel engines to four-stroke piston engines. 
+Greece
+, for example, taxed cars based on the 
+working chamber volume (the face of one rotor)
+ multiplied by the number of rotors, lowering the cost of ownership.
+ Japan did the same, but applied an equivalency factor of 1.5, making Mazda's 13B engine fit just within the 2-liter tax bracket. The 
+FIA
+ used an equivalency factor of 1.8 but later increased it to 2.0 using the displacement formula described by Bensinger. However, Germany's 
+DMSB
+ applies an equivalency factor of 1.5 in motorsport.
+
+
+
+
+Laser ignition
+[
+edit
+]
+
+
+Laser ignition was first proposed in 2011,
+ but first studies of laser ignition were only conducted in 2021. It is assumed that laser ignition of lean fuel mixtures in Wankel engines could improve fuel consumption and exhaust gas behavior. In a 2021 study, a Wankel model engine was tested with laser
+
+### CHUNK 24
+ were only conducted in 2021. It is assumed that laser ignition of lean fuel mixtures in Wankel engines could improve fuel consumption and exhaust gas behavior. In a 2021 study, a Wankel model engine was tested with laser ignition and various gaseous and liquid fuels. Laser ignition leads to a faster center of combustion development, thus improving combustion speed and leading to a reduction in NO
+x
+ emissions. The laser pulse energy required for proper ignition is "reasonable", in the low single-digit mJ range. A significant modification of the Wankel engine is not required for laser ignition.
+
+
+
+
+Compression ignition
+[
+edit
+]
+
+
+Main article: 
+Wankel Diesel engine
+
+
+Rolls-Royce R1C compression ignition prototype
+
+
+Research, while unsuccessful, has occurred into compression ignition Wankel engines. The basic design parameters of the Wankel engine preclude obtaining a compression ratio sufficient for Diesel operation in a practical engine.
+ The 
+Rolls-Royce
+ and 
+Yanmar
+ approach was to use a two-stage unit, with one rotor acting as a compressor while combustion takes place in the other.
+ Neither engine was functional.
+
+
+
+
+Multifuel
+[
+edit
+]
+
+
+A different approach from a compression ignition Wankel engine is a spark ignition engine that is capable of operating on a huge variety of fuels: 
+diesel fuel
+, 
+gasoline
+, 
+kerosene
+, 
+methanol
+, 
+natural gas
+, and 
+hydrogen
+.
+ German engineer Dankwart Eiermann designed one such engine at Wankel SuperTec (WST) in the early 2000s. It has a chamber volume of 500 cc (31 cu in) and an indicated power output of 50 kW (67.1 hp) per rotor, and support for configurations with one to four rotors.
+
+
+The WST engine has a 
+common rail
+ direct injection system operating on a strat
+
+### CHUNK 25
+) and an indicated power output of 50 kW (67.1 hp) per rotor, and support for configurations with one to four rotors.
+
+
+The WST engine has a 
+common rail
+ direct injection system operating on a stratified charge principle. Similar to a diesel engine and unlike a conventional Wankel engine, the WST engine compresses air rather than an air–fuel mixture as in the four-cycle engine compression phase. Fuel is only injected into the compressed air shortly before top dead centre, which results in a stratified charge (i.e., no homogeneous mixture). A spark plug is used to initiate combustion.
+ Pressure at the end of the compression phase and during combustion is lower than in a conventional diesel engine,
+ and fuel consumption is equivalent to that of a small 
+indirect injection compression ignition
+ engine (i.e., >250 g/(kW·h)).
+
+
+Diesel-fuel-powered variants of the WST Wankel engine are used as 
+APUs
+ in 60 
+Deutsche Bahn
+ diesel locomotives. These engines can produce up to 400 kW (536 hp).
+
+
+
+
+Hydrogen fuel
+[
+edit
+]
+
+
+Mazda RX-8 Hydrogen RE
+ hydrogen-fuelled Wankel-engined car
+
+
+As a hydrogen-air mixture is quicker to ignite with a faster burning rate than gasoline, there is a greater risk of 
+pre-ignition
+ and backfire. In a Wankel engine, each cycle of the Otto cycle occurs in different chambers. Importantly, the intake chamber is separated from the combustion chamber, keeping the air-fuel mixture away from localized hot spots. Wankel engines also lack hot exhaust valves, which facilitates adapting them to hydrogen operation.
+ Another problem concerns the hydrogenate attack on the lubricating film in reciprocating engines, which is circumvented in Wankel engines by using ceramic apex seals.
+
+
+In a prototype Wankel engine fitted to
+
+### CHUNK 26
+ which facilitates adapting them to hydrogen operation.
+ Another problem concerns the hydrogenate attack on the lubricating film in reciprocating engines, which is circumvented in Wankel engines by using ceramic apex seals.
+
+
+In a prototype Wankel engine fitted to a 
+Mazda RX-8
+ to research hydrogen operation, Wakayama et al. found that hydrogen improved thermal efficiency by 23% over gasoline. Although the engine's lean mixture emits a small amount of NOx, the total amount of NOx emissions exceeds the Japanese SULEV standard.
+ Supplementary 
+stoichiometric
+ operation combined with a catalytic converter provides additional NOx reduction.
+
+
+
+Licenses issued
+[
+edit
+]
+
+
+NSU licensed the Wankel engine design to companies worldwide in various forms, with many companies implementing continual improvements. In his 1973 book 
+Rotationskolben-Verbrennungsmotoren
+, German engineer Wolf-Dieter Bensinger describes the following licensees, in chronological order, which is confirmed by John B. Hege:
+
+
+
+
+Curtiss-Wright
+: Various engines, both air- and water-cooled, 100–1,000 PS (74–735 kW), from 1958;
+ license sold to 
+Deere & Company
+ in 1984
+
+
+Fichtel & Sachs
+: Industrial and marine engines, 0.5–30 PS (0–22 kW), from 1960
+
+
+Yanmar Diesel
+: Marine engines up to 100 PS (74 kW), and engines running on 
+diesel fuel
+ up to 300 PS (221 kW), from 1961
+
+
+Toyo Kogyo (Mazda)
+: Motor vehicle engines up to 200 PS (147 kW), from 1961
+
+
+Perkins Engines
+: Various engines, up to 250 PS (184 kW), from 1961 until before
+
+### CHUNK 27
+azda)
+: Motor vehicle engines up to 200 PS (147 kW), from 1961
+
+
+Perkins Engines
+: Various engines, up to 250 PS (184 kW), from 1961 until before 1972
+
+
+Klöckner-Humboldt-Deutz
+: Engines running on diesel fuel; development ended by 1972
+
+
+Daimler-Benz
+: Various engines from 50 PS (37 kW) up to 350 PS (257 kW), from 1961 until 1976.
+
+
+MAN
+: Engines running on diesel fuel; development ended by 1972
+
+
+Krupp
+: Engines running on diesel fuel; development ended by 1972
+
+
+Rheinstahl-Hanomag
+: Gasoline engines, 40–200 PS (29–147 kW), from 1963; by 1972 merged into Daimler-Benz
+
+
+Alfa Romeo
+: Motor vehicle engines, 50–300 PS (37–221 kW), from 1964
+
+
+Rolls-Royce
+: Engines for diesel fuel or multifuel operation, 100–850 PS (74–625 kW), from 1965
+
+
+VEB Automobilbau
+: Automotive engines from 0.25–25 PS (0–18 kW) and 50–100 PS (37–74 kW), from 1965; license abandoned by 1972
+
+
+Porsche
+: Sportscar engines from 50–1,000 PS (37–735 kW), from 1965
+
+
+Outboard Marine
+: Marine engines from 50–400 PS (37–294 kW), from 1966
+
+
+Comotor
+ (
+NSU Motorenwerke
+ and 
+Citroën
+): Gasoline engines from 40–200 PS (29
+
+### CHUNK 28
+ from 50–400 PS (37–294 kW), from 1966
+
+
+Comotor
+ (
+NSU Motorenwerke
+ and 
+Citroën
+): Gasoline engines from 40–200 PS (29–147 kW), from 1967
+
+
+Graupner
+: Model engines from 0.1–3 PS (0–2 kW), from 1967
+
+
+Savkel
+: Industrial Gasoline engines from 0.5–30 PS (0–22 kW), from 1969
+
+
+Nissan
+: Car engines from 80–120 PS (59–88 kW), from 1970
+
+
+General Motors
+: Various engines excluding aircraft engines, up to four-rotor engines, from 1970
+
+
+Suzuki
+: Motorcycle engines from 20–90 PS (15–66 kW), from 1970
+
+
+Toyota
+: Car engines from 75–150 PS (55–110 kW), from 1971
+
+
+Ford Germany
+: (including 
+Ford Motor Company
+): Car engines from 80–200 PS (59–147 kW), from 1971
+
+
+BSA Company
+: Gasoline engines from 35–60 PS (26–44 kW), from 1972
+
+
+Yamaha Motor Company
+: Gasoline engines from 20–80 PS (15–59 kW), from 1972
+
+
+Kawasaki Heavy Industries
+: Gasoline engines from 20–80 PS (15–59 kW), from 1972
+
+
+Brunswick Corporation
+ Engines from 20–100 PS (15–74 kW), from 1972
+
+
+Ingersoll Rand
+: Engines from 350–4,500 PS (257–3,310 kW), from 1972
+
+
+
+
+### CHUNK 29
+ 20–100 PS (15–74 kW), from 1972
+
+
+Ingersoll Rand
+: Engines from 350–4,500 PS (257–3,310 kW), from 1972
+
+
+American Motors Company
+: Gasoline engines from 80–200 PS (59–147 kW), from 1973
+
+
+In 1961, 
+Soviet
+ research organizations NATI, NAMI, and VNIImotoprom began developing a Wankel engine. In 1974, development was transferred to a special design bureau at the 
+AvtoVAZ
+ plant.
+ Hege argues that no license was issued to any Soviet car manufacturer.
+
+
+
+
+Advantages
+[
+edit
+]
+
+
+The primary advantages of a Wankel engine are:
+
+
+
+
+A far higher 
+power-to-weight ratio
+ than a piston engine
+
+
+Easier to package in small engine bays than an equivalent piston engine
+
+
+Able to reach higher engine speeds than a comparable piston engine
+
+
+Operating with almost no vibration
+
+
+Not prone to 
+engine knock
+
+
+Cheaper to mass-produce because the engine contains fewer parts
+
+
+Supplying torque for about two thirds of the combustion cycle, rather than one quarter for a four-stroke piston engine
+
+
+Easily adapted towards and highly suitable for hydrogen fuel
+
+
+Wankel engines are considerably lighter and simpler, containing far fewer moving parts than piston engines of equivalent power output. 
+Valves
+ and complex 
+valvetrains
+ are replaced by simple ports cut into the walls of the rotor housing. Since the rotor rides directly on a large bearing on the output shaft, there are no 
+connecting rods
+ and no 
+crankshaft
+. The elimination of reciprocating mass gives Wankel engines a low non-uniformity coefficient, meaning that they operate much smoother than comparable reciprocating piston engines. For example, a two-rotor Wankel engine is more than twice as smooth
+
+### CHUNK 30
+ of reciprocating mass gives Wankel engines a low non-uniformity coefficient, meaning that they operate much smoother than comparable reciprocating piston engines. For example, a two-rotor Wankel engine is more than twice as smooth in its operation as a four-cylinder reciprocating piston engine.
+
+
+Each cylinder in a four-stroke reciprocating engine produces a single power stroke only every other rotation of the crankshaft, with three strokes being pumping losses. The Wankel engine also has higher volumetric efficiency than a reciprocating piston engine.
+ Because of the quasi-overlap of the power strokes, the Wankel engine is very responsive, delivering power quickly when demanded especially at higher engine speeds. This difference is more pronounced relative to four-cylinder reciprocating engines and less pronounced relative to higher cylinder counts.
+
+Due to the absence of hot exhaust valves, the fuel 
+octane
+ requirements of Wankel engines are lower than in reciprocating piston engines.
+ As a rule of thumb, it may be assumed that a Wankel engine with a working chamber volume V
+k
+ of 500 cm
+ and a compression of ε=9 runs well on mediocre-quality gasoline with an octane rating of just 91 RON.
+ If in a reciprocating engine the compression must be reduced by one unit of compression to avoid knock, then, in a comparable Wankel engine, a reduction in compression may not be required.
+
+
+Because of the lower injector count, fuel injection systems in Wankel engines are cheaper than in reciprocating piston engines. An injection system that allows 
+stratified charge
+ operation may help reduce rich mixture areas in undesirable parts of the engine, improving fuel efficiency.
+
+
+
+
+Disadvantages
+[
+edit
+]
+
+
+Combustion
+[
+edit
+]
+
+
+Wankel engines mainly suffer from poor thermodynamics caused by the Wankel engine's design, particularly its huge surface area and poor combustion chamber shape. As an effect
+
+### CHUNK 31
+Disadvantages
+[
+edit
+]
+
+
+Combustion
+[
+edit
+]
+
+
+Wankel engines mainly suffer from poor thermodynamics caused by the Wankel engine's design, particularly its huge surface area and poor combustion chamber shape. As an effect of this, the Wankel engine has slow and incomplete combustion, which results in high fuel consumption and poor exhaust gas behaviour.
+ Wankel engines can reach a typical maximum 
+thermal efficiency
+ of about 30 percent.
+
+
+In a Wankel engine, fuel combustion is slow because the combustion chamber is long, thin, and moving. Flame travel occurs almost exclusively in the direction of rotor movement, adding to the poor quenching of the fuel and air mixture, being the main source of unburnt hydrocarbons at high engine speeds. The trailing side of the combustion chamber naturally produces a "squeeze stream" that prevents the flame from propagating to the combustion chamber's trailing edge at moderate and high engine speed ranges.
+ This poor combustion is one of the reasons for the increase in carbon monoxide and unburned hydrocarbons in a Wankel's exhaust stream. A side port exhaust, as used in the Renesis, can prevent the unburned mixture from escaping by eliminating port overlap. Direct fuel injection, in which fuel is injected towards the leading edge of the combustion chamber, can minimize the amount of unburnt fuel in the exhaust.
+
+
+Kawasaki addressed this problem in its US patent 
+US 3848574
+ 
+; Toyota obtained a 7% economy improvement by placing a glow plug at the leading edge and using reed valves in intake ducts. In two-stroke engines, metal reeds last around 15,000 km (9,300 miles), while carbon fiber reeds last around 8,000 km (5,000 miles).
+ The 
+Mazda R26B
+ used three spark plugs per rotor for complete combustion of the aspirated mixture. In the 
+
+### CHUNK 32
+,300 miles), while carbon fiber reeds last around 8,000 km (5,000 miles).
+ The 
+Mazda R26B
+ used three spark plugs per rotor for complete combustion of the aspirated mixture. In the 26B, the third spark plug at the trailing edge ignites before the onset of the squeeze flow.
+
+
+
+
+Sealing
+[
+edit
+]
+
+
+Although many of the Wankel engine's disadvantages are the subject of ongoing research, the current disadvantages of Wankel engines in production are the following:
+
+
+
+
+Rotor sealing
+
+
+The engine housing has vastly different temperatures in each separate chamber section. The different expansion coefficients of the materials lead to imperfect sealing. Additionally, both sides of the apex seals are exposed to fuel, and the design does not allow for precise lubrication of the rotors. Wankel engines tend to be overlubricated at all engine speeds and loads, leading to relatively high oil consumption and other problems resulting from excess oil in the combustion areas of the engine (such as carbon buildup and excessive emissions from burning oil). By comparison, a piston engine has all strokes occur in the same chamber, resulting in a more stable temperature for the piston rings. Additionally, only one end of each piston in a four-stroke piston engine is exposed to fuel, allowing oil to lubricate each cylinder from the other end. Piston engine components can also be designed to increase ring sealing and oil control as cylinder pressures and power levels increase. To overcome the problems in a Wankel engine of differences in temperatures between different regions of housing and side and intermediary plates, and the associated thermal irregularities, "heat pipes" have been used to transport hot exhaust gas to cooler areas of the engine, resulting in increases in efficiency and performance. In small-displacement, charge-cooled rotor, air-cooled housing Wankel engines, the use of these "heat pipes" has been shown to reduce the maximum engine temperature from 231 to 129 °C
+
+### CHUNK 33
+ increases in efficiency and performance. In small-displacement, charge-cooled rotor, air-cooled housing Wankel engines, the use of these "heat pipes" has been shown to reduce the maximum engine temperature from 231 to 129 °C (448 to 264 °F), and the maximum difference between hotter and colder regions of the engine from 159 to 18 °C (286 to 32 °F).
+
+
+Apex seal lifting
+
+
+Centrifugal force
+ pushes the apex seal against the housing surface, forming a firm seal. However, gaps can develop between the apex seal and housing in light-load operation when imbalances in centrifugal force and gas pressure occur. At low RPM or load conditions, the gas pressure in the combustion chamber can cause the seal to lift off the housing surface, resulting in combustion gas leaking into the adjacent chamber. NSU circumvented this problem by adding slots on one side of the apex seals, thus directing the gas pressure into the base of the apex. This effectively prevented the apex seals from lifting off.
+ Mazda's solution was to change the shape of the trochoid housing, ensuring that the seals remained flush with the housing surface. Using a Wankel engine at sustained higher revolutions helps eliminate apex seal lift-off, making it viable in applications such as electricity generation (or, in motor vehicles specifically, series-hybrid applications).
+
+
+Although in two dimensions the seal system of a Wankel looks to be simpler than that of a corresponding multi-cylinder piston engine, in three dimensions the opposite is true. As well as the rotor apex seals evident in the conceptual diagram, the rotor must also seal against the chamber ends.
+
+Piston rings in reciprocating engines are not perfect seals; each has a gap to allow for expansion. The sealing at the apices of the Wankel rotor is less critical, because leakage is between adjacent chambers on adjacent strokes of the cycle rather than to the mainshaft case. Although sealing has improved over the years,
+
+### CHUNK 34
+ gap to allow for expansion. The sealing at the apices of the Wankel rotor is less critical, because leakage is between adjacent chambers on adjacent strokes of the cycle rather than to the mainshaft case. Although sealing has improved over the years, the less-than-effective sealing of the Wankel, mostly due to lack of lubrication, remains a factor reducing its efficiency.
+
+
+
+
+Automotive applications
+[
+edit
+]
+
+
+Rotary-engined cars
+1964 NSU Spider
+, the first car sold with a rotary engine
+1967 
+NSU Ro 80
+1967 
+Mazda Cosmo
+, the first two-rotor sports car
+1970 
+Mercedes-Benz C111
+, fitted with a four-rotor Wankel engine
+1973 Citroën GS Birotor
+VAZ-2106
+Mazda RX-8
+ sports car, manufactured until 2012
+2023 
+Mazda MX-30
+ R-EV hybrid, the first car sold with an electric-Wankel engine powertrain
+
+
+The first Wankel-engined car for sale was the 
+1964 NSU Spider
+. Wankel engines were continuously fitted in cars until 2012, when Mazda discontinued the RX-8. Mazda later introduced a Wankel-engined hybrid electric car, the 
+MX-30 R-EV
+, in 2023.
+
+
+
+
+NSU
+[
+edit
+]
+
+
+Mazda and NSU signed a study contract to develop the Wankel engine in 1961 and competed to bring the first Wankel-powered automobile to the market. Although Mazda produced an experimental engine that year, NSU was the first with a Wankel-engined automobile for sale, the sporty NSU Spider in 1964; Mazda countered with a display of two- and four-rotor Wankel engines at that year's 
+Tokyo Motor Show
+.
+ In 1967, NS
+
+### CHUNK 35
+ined automobile for sale, the sporty NSU Spider in 1964; Mazda countered with a display of two- and four-rotor Wankel engines at that year's 
+Tokyo Motor Show
+.
+ In 1967, NSU began production of a Wankel-engined luxury car, the 
+Ro 80
+.
+ Unlike Mazda and Curtiss-Wright, NSU had not produced reliable apex seals, resulting in problems with wear, poor shaft lubrication, and poor fuel economy, culminating in frequent engine failures. These issues were not solved until 1972, which led to large warranty costs curtailing further NSU Wankel engine development. This premature release of the new Wankel engine gave a poor reputation for all makes, and even when these issues were solved in the last engines produced by NSU in the second half of the '70s, sales did not recover.
+
+
+By early 1978, Audi engineers Richard van Basshuysen and Gottlieb Wilmers had designed a new generation of the Audi-NSU Wankel engine, the KKM 871. It was a two-rotor unit with a chamber volume V
+k
+ of 746.6 cm
+, derived from an eccentricity of 17 mm, a generating radius of 118.5 mm, an equidistance of 4 mm, and a housing width of 69 mm. It had double side intake ports and a peripheral exhaust port; it was fitted with a continuously injecting 
+Bosch K-Jetronic
+ multipoint 
+manifold injection
+ system. According to the DIN 70020 standard, it produced 121 kW (162 hp) at 6500 rpm and 210 N⋅m (155 lb⋅ft) at 3500 rpm.
+ Van Basshuysen and Wilmers designed the engine with either a manifold thermal reactor
+
+### CHUNK 36
+ hp) at 6500 rpm and 210 N⋅m (155 lb⋅ft) at 3500 rpm.
+ Van Basshuysen and Wilmers designed the engine with either a manifold thermal reactor or a catalytic converter for emissions control.
+ The engine had a mass of 142 kg (313 lb)
+ a BSFC of approximately 315 g/(kW·h) at 3000 rpm, and a BMEP of 900 kPa.
+ For testing, two KKM 871 engines were installed in 
+Audi 100 Type 43
+ test cars, one with a five-speed manual gearbox, and one with a three-speed automatic gearbox.
+
+
+
+
+Mazda
+[
+edit
+]
+
+
+Mazda claimed to have solved the apex seal problem, operating test engines at high speed for 300 hours without failure.
+ After years of development, Mazda's first Wankel-engined car was the 1967 
+Cosmo 110S
+. The company followed with several Wankel ("
+rotary
+" in the company's terminology) vehicles, including a 
+bus
+ and a 
+pickup truck
+. Customers often cited the cars' smoothness of operation. However, Mazda chose a method to comply with 
+hydrocarbon
+ 
+emission standards
+ which, while less expensive to produce, increased fuel consumption.
+
+Mazda later abandoned the rotary in most of their automotive designs, continuing to use the engine in their 
+sports car
+ range only. The company normally used two-rotor designs, though a more advanced twin-
+turbo
+ three-rotor engine was fitted in the 1990 
+Eunos Cosmo
+ sports car. In 2003, Mazda introduced the 
+Renesis
+ engine fitted in the 
+RX-8
+. The Renesis engine relocated the exhaust ports from the periphery of the rotary housing to the sides, allowing for larger overall ports and better airflow
+
+### CHUNK 37
+ In 2003, Mazda introduced the 
+Renesis
+ engine fitted in the 
+RX-8
+. The Renesis engine relocated the exhaust ports from the periphery of the rotary housing to the sides, allowing for larger overall ports and better airflow.
+ The Renesis is capable of 177 kW (238 hp) with improved fuel economy, reliability, and lower emissions than prior Mazda rotary engines,
+ all from a nominal 2.6 L displacement, but this was not enough to meet more stringent emissions standards. Mazda ended production of their rotary engine in 2012 after the engine failed to meet 
+Euro 5 emission standards
+, leaving no automotive company selling a Wankel-powered road vehicle until 2023.
+
+
+Mazda launched the 
+MX-30 R-EV
+ hybrid fitted with a Wankel engine range extender in March 2023.
+ The Wankel engine has no direct connection to the wheels, serving only to charge the battery. It is an 830 cc (51 cu in) single-rotor engine with a rated power output of 55 kW (74 hp). The engine has 
+gasoline direct injection
+, 
+exhaust gas recirculation
+, and an exhaust gas treatment system with a three-way catalytic converter and a 
+particulate filter
+. The engine is Euro 6d-ISC-FCM-compliant.
+
+
+
+
+Citroën
+[
+edit
+]
+
+
+Citroën produced the 
+M35
+ and 
+GS Birotor
+ cars and the 
+RE-2
+ [
+fr
+]
+ 
+helicopter
+ using engines produced by 
+Comotor
+, a joint venture by Citroën and NSU.
+
+
+
+Mercedes-Benz
+[
+edit
+]
+
+
+Mercedes-Benz
+ fitted a Wankel engine in their 
+C111
+ concept car. The C 111-II's engine was naturally aspirated, fitted with gasoline direct injection, and had four rot
+
+### CHUNK 38
+.
+
+
+
+Mercedes-Benz
+[
+edit
+]
+
+
+Mercedes-Benz
+ fitted a Wankel engine in their 
+C111
+ concept car. The C 111-II's engine was naturally aspirated, fitted with gasoline direct injection, and had four rotors. The total displacement was 4.8 L (290 cubic inches), and the compression ration was 9.3:1. It provided a maximum torque of 433 N⋅m (319 lb⋅ft) at 5,000
+ 
+rpm and a power output of 257 kW (350 PS) at 6,000
+ 
+rpm.
+
+
+
+
+American Motors
+[
+edit
+]
+
+
+American Motors Corporation
+ (AMC) was so convinced "... that the rotary engine will play an important role as a powerplant for cars and trucks of the future ...", that the chairman, 
+Roy D. Chapin Jr.
+, signed an agreement in February 1973 after a year's negotiations, to build Wankel engines for both passenger cars and military vehicles, and the right to sell any Wankel engines it produced to other companies.
+ AMC's president, William Luneburg, did not expect dramatic development through to 1980, but 
+Gerald C. Meyers
+, AMC's vice president of the engineering product group, suggested that AMC should buy the engines from Curtiss-Wright before developing its own Wankel engines, and predicted a total transition to Wankel power by 1984.
+
+
+Plans called for the engine to be used in the 
+AMC Pacer
+, but development was pushed back.
+ American Motors had designed the unique Pacer around the engine. By 1974, AMC had decided to purchase the 
+General Motors
+ (GM) Wankel engine instead of building one in-house.
+ Both GM and AMC confirmed the relationship would be beneficial in marketing the new engine, with AMC claiming that the GM Wankel engine achieved
+
+### CHUNK 39
+ had decided to purchase the 
+General Motors
+ (GM) Wankel engine instead of building one in-house.
+ Both GM and AMC confirmed the relationship would be beneficial in marketing the new engine, with AMC claiming that the GM Wankel engine achieved good fuel economy.
+ GM's engines had not reached production when the Pacer was launched onto the market. The 
+1973 oil crisis
+ played a part in frustrating the use of the Wankel engine, and rising fuel prices and speculation about proposed US emission standards legislation also increased concerns.
+
+
+
+General Motors
+[
+edit
+]
+
+
+At its annual meeting in May 1973, General Motors unveiled the Wankel engine it planned to use in the 
+Chevrolet Vega
+.
+ By 1974, GM R&D had not succeeded in producing a Wankel engine meeting both the emission requirements and fuel economy targets, leading to the project's cancellation. Because of that decision, the R&D team only partly released the results of its most recent research, which claimed to have solved the fuel-economy problem and built reliable engines with a lifespan above 530,000 miles (850,000 km). Those findings were not taken into account when the cancellation order was issued. The ending of GM's Wankel engine project required AMC, who was to purchase the engine, to reconfigure the Pacer to house its 
+AMC straight-6 engine
+ driving the rear wheels.
+
+
+
+
+AvtoVAZ
+[
+edit
+]
+
+
+In 1974, the 
+Soviet Union
+ created a special engine-design bureau, which, in 1978, designed an engine designated as VAZ-311 fitted into a 
+VAZ-2101
+ car.
+ In 1980, the company began delivering the VAZ-411 twin-rotor Wankel engine in 
+VAZ-2106
+ cars, with about 200 being manufactured. Most of the production went to security services.
+
+
+
+
+Ford
+[
+edit
+]
+
+
+Ford conducted research in
+
+### CHUNK 40
+ delivering the VAZ-411 twin-rotor Wankel engine in 
+VAZ-2106
+ cars, with about 200 being manufactured. Most of the production went to security services.
+
+
+
+
+Ford
+[
+edit
+]
+
+
+Ford conducted research in Wankel engines, resulting in patents granted: 
+GB 1460229
+ 
+, 1974, a method for fabricating housings; 
+US 3833321
+ 
+ 1974, side plates coating; 
+US 3890069
+ 
+, 1975, housing coating; 
+CA 1030743
+ 
+, 1978: Housings alignment; 
+CA 1045553
+ 
+, 1979, reed-valve assembly. In 1972, 
+Henry Ford II
+ stated that the Wankel would probably not replace the piston in "my lifetime".
+
+
+
+
+Auto racing
+[
+edit
+]
+
+
+Mazda 787B
+ 
+
+
+The Sigma MC74, driven by 
+Yojiro Terada
+ and powered by a Mazda 12A engine, was the first Wankel-powered car (and non-
+Western European
+ or American car) to finish the 
+1974 24 Hours of Le Mans
+.
+
+Mazda was the first Japanese automaker to win Le Mans outright in 
+1991
+. Its four-rotor 
+787B
+ (5.24 L or 320 cu in displacement), rated by the FIA formula at 4.708 L or 287 cu in) is also the only non-piston-engined car to have won Le Mans. The Mazdas were classified as naturally aspirated to start with a weight of 830 kg (1,830 lb), 170 kg (375 lb) less than their 
+forced-induction
+ competitors in the 
+Group C2
+ class.
+ The 1991 Group C1 cars were allowed to be another 80 
+
+### CHUNK 41
+ (1,830 lb), 170 kg (375 lb) less than their 
+forced-induction
+ competitors in the 
+Group C2
+ class.
+ The 1991 Group C1 cars were allowed to be another 80 kg (176 lb) lighter than the 787B
+ and had no fuel quantity limits, but were only allowed 3.5-liter naturally aspirated engines.
+
+
+
+
+As a range extender
+[
+edit
+]
+
+
+Structure of a series-hybrid vehicle. The grey square represents a differential gear. An alternative arrangement (not shown) is to have electric motors at two or four wheels.
+
+
+Due to the compact size and the high 
+power-to-weight ratio
+ of a Wankel engine, it has been proposed for use as an electric vehicle 
+range extender
+ to provide supplementary power when battery levels are low. A Wankel engine used as a generator has packaging, 
+noise, vibration, and harshness
+ advantages when used in a passenger car, maximizing interior passenger and luggage space while providing a good noise and vibration emissions profile. However, it is questionable whether or not the inherent disadvantages of the Wankel engine allow for its usage as a range extender for passenger cars.
+
+
+In 2010, 
+Audi
+ unveiled a prototype series-hybrid electric car, the 
+A1 e-tron
+. It incorporated a Wankel engine with a chamber volume V
+k
+ of 254 cm
+, capable of producing 18 kW at 5000 rpm. It was mated to an electric generator, which recharged the car's batteries as needed and provided electricity directly to the electric driving motor. The package had a mass of 70 kg and could produce 15 kW of electric power.
+
+
+
+
+Mazda2 EV prototype
+
+
+In November 2013, Mazda announced to the motoring press a series hybrid prototype car, the 
+Mazda2 EV
+, using a W
+
+### CHUNK 42
+ and could produce 15 kW of electric power.
+
+
+
+
+Mazda2 EV prototype
+
+
+In November 2013, Mazda announced to the motoring press a series hybrid prototype car, the 
+Mazda2 EV
+, using a Wankel engine as a range extender. The generator engine, located under the rear luggage floor, is a tiny, almost inaudible, single-rotor 330-cc unit, generating 22 kW (30 hp) at 4,500
+ 
+rpm and maintaining a continuous electric output of 20 kW.
+
+
+Mazda introduced the 
+MX-30 R-EV
+ fitted with a Wankel engine range extender in March 2023.
+ The car's Wankel engine is a naturally aspirated single-rotor unit with a chamber volume V
+k
+ of 830 cm
+ (50.6 in
+), a compression of 11.9:1, and a rated power output of 55 kW (74 hp). It has gasoline direct injection, 
+exhaust gas recirculation
+, and an exhaust gas treatment system with a three-way catalytic converter and a 
+particulate filter
+. According to 
+auto motor und sport
+, the engine is Euro 6d-ISC-FCM-compliant.
+
+
+
+
+Motorcycle applications
+[
+edit
+]
+
+
+The first Wankel-engined motorcycle was an 
+MZ
+-built 
+MZ ES 250
+, fitted with a water-cooled KKM 175 W Wankel engine. An air-cooled version followed in 1965, called the KKM 175 L. The engine produced 24 bhp (18 kW) at 6,750
+ 
+rpm, but the motorcycle never went into series production.
+
+
+
+
+Hercules
+[
+edit
+]
+
+
+In 1974, Hercules produced 
+W-2000
+ Wankel motorcycles,
+
+### CHUNK 43
+ (18 kW) at 6,750
+ 
+rpm, but the motorcycle never went into series production.
+
+
+
+
+Hercules
+[
+edit
+]
+
+
+In 1974, Hercules produced 
+W-2000
+ Wankel motorcycles, but low production numbers meant the project was unprofitable, and production ceased in 1977.
+
+
+
+
+Norton
+[
+edit
+]
+
+
+Rotary-powered motorcycles
+Norton Classic
+ air-cooled twin-rotor motorcycle
+Norton Interpol2 prototype
+
+
+In Britain, 
+Norton
+ developed a Wankel engine for 
+motorcycles
+ based on the 
+Sachs
+ air-cooled engine that powered the 
+DKW/Hercules W-2000
+ motorcycle. This two-rotor engine was included in the 
+Commander
+ and 
+F1
+. Norton improved on Sachs's air cooling, introducing a plenum chamber.
+
+In the early 1980s, using earlier work at 
+BSA
+, 
+Norton
+ produced the air-cooled twin-rotor 
+Classic
+, followed by the liquid-cooled 
+Commander
+ and the Interpol2 (a police version).
+ Subsequent Norton Wankel bikes included the 
+Norton F1
+, F1 Sports, RC588, 
+Norton RCW588
+, and NRS588. Norton proposed a new 588-cc twin-rotor model called the "NRV588" and a 700-cc version called the "NRV700".
+ A former mechanic at Norton, Brian Crighton, started developing his own Wankel-engined motorcycles line named "Roton", which won several Australian races.
+
+Despite successes in racing,
+ no motorcycles powered by Wankel engines have been produced for sale to the general public for road use since 1992.
+
+
+
+Yamaha
+[
+edit
+]
+
+
+In 1972, 
+Yamaha
+ introduced the RZ201 at the 
+Tokyo Motor Show
+, a prototype
+
+### CHUNK 44
+ engines have been produced for sale to the general public for road use since 1992.
+
+
+
+Yamaha
+[
+edit
+]
+
+
+In 1972, 
+Yamaha
+ introduced the RZ201 at the 
+Tokyo Motor Show
+, a prototype with a Wankel engine, weighing 220 kg and producing 60 hp (45 kW) from a twin-rotor 660-cc engine (US patent N3964448). In 1972, Kawasaki presented its two-rotor Kawasaki X99 Wankel engine prototype (US patents N 3848574 & 3991722). Both Yamaha and Kawasaki claimed to have solved the problems of poor fuel economy, high exhaust emissions, and poor engine longevity in early Wankels, but neither prototype reached production.
+
+
+
+Suzuki
+[
+edit
+]
+
+
+From 1975 to 1976, 
+Suzuki
+ produced its 
+RE5
+ single-rotor Wankel motorcycle. It was a complex design, with both 
+liquid cooling
+ and 
+oil cooling
+, and multiple lubrication and 
+carburetor
+ systems. It worked well and was smooth, but it did not sell well because it was heavy and underpowered.
+ To manage elevated exhaust temperatures, Suzuki opted for a finned exhaust manifold, twin-skinned exhausted pipes with cooling grilles, heatproof pipe wrapping, and silencers with heat shields. Suzuki had three lubrication systems, while Norton had a single total-loss oil injection system that fed both the main bearings and the intake manifolds. Mounted high in the frame was a single-rotor engine that was fairly smooth, but with rough patches at 4,000 rpm.
+ Although it was described to handle well, the result was that the RE5 was heavy, overcomplicated, expensive to manufacture, and, at 62 bhp (46 kW), short on power.
+
+
+
+Van Veen
+[
+edit
+]
+
+
+D
+
+### CHUNK 45
+ described to handle well, the result was that the RE5 was heavy, overcomplicated, expensive to manufacture, and, at 62 bhp (46 kW), short on power.
+
+
+
+Van Veen
+[
+edit
+]
+
+
+Dutch motorcycle importer and manufacturer 
+Van Veen
+ produced small quantities of a dual-rotor Wankel-engined OCR-1000 motorcycle between 1978 and 1980 using surplus 
+Comotor
+ KKM 624 engines initially intended for the 
+Citroën GS Birotor car
+,
+ whereby a Hartig electronic ignition system replaced the 
+distributor
+.
+
+
+
+
+Other applications
+[
+edit
+]
+
+
+Aircraft
+[
+edit
+]
+
+
+Aircraft rotary engines
+RC2-60 aeronautical Wankel engine
+ARV Super2 with British 
+MidWest AE110
+ twin-rotor Wankel engine
+Diamond DA20
+ with Diamond Engines Wankel engine
+Sikorsky Cypher
+ unmanned aerial vehicle (UAV) powered by a UEL AR801 Wankel engine
+Citroën RE-2 helicopter in 1975
+
+
+Wankel engines are well suited for 
+light aircraft
+, being light, compact, almost vibrationless, and with a high 
+power-to-weight ratio
+. Further aviation benefits include:
+
+
+
+The engine is not susceptible to 
+shock cooling
+ during descent;
+
+
+The engine does not require an enriched mixture for cooling at high power;
+
+
+Having no reciprocating parts, less vulnerability to damage occurs when the engine revolves at a higher rate than the designed maximum.
+
+
+Unlike in cars and motorcycles, a Wankel aero engine can be sufficiently warm before full power is applied because of the time taken for pre-flight checks. Also, the journey to the runway has minimum cooling, which further permits the engine to reach the operating temperature for full power on take-off.
+ A Wankel aero engine spends most of its operational time at high power outputs with little id
+
+### CHUNK 46
+ checks. Also, the journey to the runway has minimum cooling, which further permits the engine to reach the operating temperature for full power on take-off.
+ A Wankel aero engine spends most of its operational time at high power outputs with little idling.
+
+Since Wankel engines operate at a relatively high 
+rotational speed
+, at 6,000
+ 
+rpm of the output shaft, the rotor spins only at about one-third of that speed. With relatively low torque, propeller-driven aircraft must use a 
+propeller speed reduction unit
+ to maintain propellers within the designed speed range. Experimental aircraft with Wankel engines use propeller speed reduction units; for example, the 
+MidWest
+ twin-rotor engine has a 2.95:1 reduction gearbox.
+
+The first Wankel-engined aircraft was the experimental 
+Lockheed
+ Q-Star civilian version of the 
+United States Army
+'s reconnaissance 
+QT-2
+ in the late 1960s, essentially a powered 
+Schweizer
+ 
+sailplane
+.
+ The plane was powered by a 185 hp (138 kW) 
+Curtiss-Wright
+ RC2-60 Wankel engine.
+ The same engine model was also used in a Cessna Cardinal and a helicopter, as well as other airplanes.
+ The French company 
+Citroën
+ developed a Wankel-powered 
+RE-2
+ [
+fr
+]
+ 
+helicopter
+ in the 1970s.
+ In Germany in the mid-1970s, a pusher ducted fan airplane powered by a modified NSU multi-rotor engine was developed in both civilian and military versions, the Fanliner and the Fantrainer.
+
+
+At roughly the same time as the first experiments with full-scale aircraft powered with Wankel engines, 
+model aircraft
+-sized versions were pioneered by a combination of the well-known Japanese 
+O.S. Engines
+ firm and the then-extant German 
+G
+
+### CHUNK 47
+ roughly the same time as the first experiments with full-scale aircraft powered with Wankel engines, 
+model aircraft
+-sized versions were pioneered by a combination of the well-known Japanese 
+O.S. Engines
+ firm and the then-extant German 
+Graupner
+ model aircraft firm, under license from NSU. The O.S.-Graupner model Wankel engine has a chamber volume V
+k
+ of 4.9 cm
+, and produces 460 W at 16,000 rpm
+; its mass is 370 g.
+
+
+Wankel engines have been fitted in homebuilt experimental aircraft, such as the 
+ARV Super2
+, a couple of which were powered by the British 
+MidWest
+ aero-engine. Most are Mazda 12A and 13B car engines converted for aviation use—a very cost-effective alternative to certified aircraft engines, providing 100 to 300 horsepower (220 kW) at a fraction of the cost of traditional piston engines. These conversions began in the early 1970s. Peter Garrison, a contributing editor for 
+Flying
+ magazine, wrote "in my opinion … the most promising engine for aviation use is the Mazda rotary."
+
+
+The 
+sailplane
+ manufacturer 
+Schleicher
+ uses an 
+Austro Engine AE50R
+ engine
+ in its self-launching models 
+ASK-21 Mi
+, 
+ASH-26E
+,
+ 
+ASH-25 M/Mi
+, 
+ASH-30 Mi
+, 
+ASH-31 Mi
+, 
+ASW-22 BLE
+, and 
+ASG-32 Mi
+.
+
+In 2013, 
+e-Go
+ airplanes, based in 
+Cambridge
+, United Kingdom, announced that a Wankel engine from Rotron Power will power its new single-seater canard aircraft.
+
+
+The DA36 E-Star, an aircraft designed by 
+Siemens
+, 
+Diamond Aircraft
+ and 
+E
+
+### CHUNK 48
+bridge
+, United Kingdom, announced that a Wankel engine from Rotron Power will power its new single-seater canard aircraft.
+
+
+The DA36 E-Star, an aircraft designed by 
+Siemens
+, 
+Diamond Aircraft
+ and 
+EADS
+, employs a 
+series hybrid
+ powertrain with the propeller being turned by a Siemens 70 kW (94 hp) electric motor. The aim is to reduce fuel consumption and emissions by up to 25%. An onboard 40 hp (30 kW) 
+Austro Engine
+ engine and generator provide the electricity. A propeller speed reduction unit is eliminated. The electric motor uses electricity stored in batteries, with the generator engine off, to take off and climb reducing sound emissions. The series-hybrid powertrain using the Wankel engine reduces the plane's weight by 100 kg relative to its predecessor. The DA36 E-Star first flew in June 2013, making this the first-ever flight of a series-hybrid powertrain. Diamond Aircraft claims that Wankel engine technology is scalable to a 100-seat aircraft.
+
+
+
+
+Trains
+[
+edit
+]
+
+
+Since 2015, a total of 60 trains in Germany have been equipped with Wankel-engined auxiliary power systems that burn diesel fuel. The locomotives use the WST KKM 351 Wankel diesel fuel engine.
+
+
+
+
+Other uses
+[
+edit
+]
+
+
+UEL UAV-741 Wankel engine for 
+AAI RQ-7 Shadow
+ 
+UAV
+
+
+The Wankel engine is well-suited for devices in which a human operator is close to the engine, e.g., hand-held devices such as 
+chainsaws
+.
+ The excellent starting behavior and low mass make the Wankel engine also a good powerplant for portable 
+fire pumps
+ and 
+portable generators
+.
+
+
+Small Wankel engines are being found in applications such as 
+go-karts
+, 
+personal watercraft
+
+### CHUNK 49
+ behavior and low mass make the Wankel engine also a good powerplant for portable 
+fire pumps
+ and 
+portable generators
+.
+
+
+Small Wankel engines are being found in applications such as 
+go-karts
+, 
+personal watercraft
+, and 
+auxiliary power units
+ for aircraft.
+ 
+Kawasaki
+ patented mixture-cooled Wankel engine (US patent 3991722). Japanese diesel engine manufacturer 
+Yanmar
+ and 
+Dolmar-Sachs
+ of Germany had a Wankel-engined chainsaw (SAE paper 760642) and outboard boat engines, and the French Outils Wolf made a lawnmower (Rotondor) powered by a Wankel engine. The rotor was in a horizontal position to save on production costs, and there were no seals on the downside.
+
+The simplicity of the Wankel engine makes it well-suited for miniature and microscopic engine designs. The 
+Microelectromechanical systems
+ (MEMS) Rotary Engine Lab at the 
+University of California, Berkeley
+, formerly researched developing Wankel engines down to 1 mm in diameter, with displacements less than 0.1 cc. Materials include silicon, and motive power includes compressed air. The goal of such research was to eventually develop an internal combustion engine with the ability to deliver 100 milliwatts of electrical power, with the engine serving as the rotor of the 
+electric generator
+, with 
+magnets
+ built into the engine rotor.
+ Development of the miniature Wankel engine stopped at UC Berkeley at the end of the DARPA contract.
+
+In 1976, 
+Road & Track
+ reported that 
+Ingersoll-Rand
+ would develop a Wankel engine with a chamber volume V
+k
+ of 1,500 in
+ (25 dm
+) with a rated power of 500 hp (373 kW) per rotor.
+ Eventually, 13 units
+
+### CHUNK 50
+ a Wankel engine with a chamber volume V
+k
+ of 1,500 in
+ (25 dm
+) with a rated power of 500 hp (373 kW) per rotor.
+ Eventually, 13 units of the proposed engine were built, albeit with a larger displacement, and covered over 90,000 operating hours combined. The engine was made with a chamber volume V
+k
+ of 2,500 in
+ (41 dm
+), and a power output of 550 hp (410 kW) per rotor. Both single, and twin-rotor engines were made (producing 550 hp (410 kW) or 1,100 hp (820 kW) respectively). The engines ran on natural gas and had a relatively low engine speed due to its application.
+
+
+Deere & Company
+ acquired the Curtiss-Wright rotary division in February 1984, making large multi-fuel prototypes, some with an 11-liter rotor for large vehicles.
+ The developers attempted to use a stratified charge concept.
+ The technology was transferred to RPI in 1991.
+
+
+Yanmar
+ of Japan produced small, charge-cooled Wankel engines for chainsaws and outboard engines.
+ One of its products is the LDR (rotor recess in the leading edge of the combustion chamber) engine, which has better exhaust emissions profiles, and reed-valve controlled intake ports, which improve part-load and low rpm performance.
+
+
+In 1971 and 1972, 
+Arctic Cat
+ produced snowmobiles powered by Sachs KM 914 303-cc and KC-24 294-cc Wankel engines made in Germany.
+
+In the early 1970s, 
+Outboard Marine Corporation
+ sold snowmobiles under the Johnson and other brands, which were powered by 35 or 45 hp (26 or 34 kW) OMC engines.
+
+A
+
+### CHUNK 51
+In the early 1970s, 
+Outboard Marine Corporation
+ sold snowmobiles under the Johnson and other brands, which were powered by 35 or 45 hp (26 or 34 kW) OMC engines.
+
+Aixro of Germany produces and sells a go-kart engine with a 294-cc-chamber charge-cooled rotor and liquid-cooled housings. Other makers include Wankel AG, Cubewano, Rotron, and Precision Technology.
+
+
+
+Non-internal combustion
+[
+edit
+]
+
+
+Ogura Wankel air conditioning compressor
+
+
+In addition to applications as an internal combustion engine, the basic Wankel design has also been used for 
+gas compressors
+, and 
+superchargers
+ for internal combustion engines, but in these cases, although the design still offers advantages in reliability, the primary advantages of the Wankel in size and weight over the four-stroke internal combustion engine are irrelevant. In a design using a Wankel supercharger on a Wankel engine, the supercharger is twice the size of the engine.
+
+The Wankel design is used in the 
+seat belt
+ pre-tensioner system
+ in some 
+Mercedes-Benz
+ and 
+Volkswagen
+ cars. When the 
+deceleration
+ 
+sensors
+ detect a potential crash, small explosive cartridges are triggered electrically, and the resulting pressurized gas feeds into tiny Wankel air motors, which tighten the seat belts and anchor the driver and passengers firmly in the seat before a collision.
+
+
+
+
+See also
+[
+edit
+]
+
+
+General Motors Rotary Combustion Engine
+
+
+Gunderson Do-All Machine
+
+
+Mazda RX-8 Hydrogen RE
+
+
+Mazda Wankel engine
+
+
+Mercedes-Benz M 950
+
+
+Mercedes-Benz C111
+
+
+O.S. Engines
+, the only licensed maker of Wankel 
+model engines
+
+
+Pistonless rotary engine
+
+
+RKM engine
+
+
+Liquidpiston
+
+
+
+
+### CHUNK 52
+ Wankel engine
+
+
+Mercedes-Benz M 950
+
+
+Mercedes-Benz C111
+
+
+O.S. Engines
+, the only licensed maker of Wankel 
+model engines
+
+
+Pistonless rotary engine
+
+
+RKM engine
+
+
+Liquidpiston
+
+
+Notes
+[
+edit
+]
+
+
+
+
+
+
+^
+ 
+"A Brief History of the Rotary Engine"
+. 
+rotaryrevs.com
+. Retrieved 
+November 6,
+ 2023
+.
+
+
+
+
+^
+ 
+Norbye, J.P. (1971). 
+The Wankel Engine: Design, Development, Applications
+. Chilton. p. 357. 
+ISBN
+ 
+978-0-8019-5591-4
+.
+
+
+
+
+^
+ 
+Hege, J.B. (2015). 
+The Wankel Rotary Engine: A History
+. EBL-Schweitzer. McFarland. p. 56. 
+ISBN
+ 
+978-0-7864-8658-8
+.
+
+
+
+
+^ 
+ 
+ 
+ 
+Hege, J.B. (2015). 
+The Wankel Rotary Engine: A History
+. EBL-Schweitzer. McFarland. p. 53. 
+ISBN
+ 
+978-0-7864-8658-8
+.
+
+
+
+
+^ 
+ 
+ 
+Hege, J.B. (2015). 
+The Wankel Rotary Engine: A History
+. EBL-Schweitzer. McFarland. p. 54. 
+ISBN
+ 
+978-0-7864-8658-8
+.
+
+
+
+
+^
+ 
+Hege, J.B. (2015). 
+The Wankel Rotary Engine: A History
+. EBL-Schweitzer. McFarland. p. 31. 
+ISBN
+ 
+978-0-7864-8658-8
+.
+
+
+
+
+^
+ 
+Hege, J.B. (2015). 
+The Wankel Rotary Engine: A History
+. EBL-S
+
+### CHUNK 53
+ p. 31. 
+ISBN
+ 
+978-0-7864-8658-8
+.
+
+
+
+
+^
+ 
+Hege, J.B. (2015). 
+The Wankel Rotary Engine: A History
+. EBL-Schweitzer. McFarland. p. 43. 
+ISBN
+ 
+978-0-7864-8658-8
+.
+
+
+
+
+^
+ 
+Hege, J.B. (2015). 
+The Wankel Rotary Engine: A History
+. EBL-Schweitzer. McFarland. p. 44. 
+ISBN
+ 
+978-0-7864-8658-8
+.
+
+
+
+
+^
+ 
+Korp, Dieter (1975). 
+Protokoll einer Erfindung
+. Motorbuch Verlag Stuttgart. pp. 
+62–
+63. 
+ISBN
+ 
+3-87943-381-X
+.
+
+
+
+
+^
+ 
+Hege, J.B. (2015). 
+The Wankel Rotary Engine: A History
+. EBL-Schweitzer. McFarland. p. 48. 
+ISBN
+ 
+978-0-7864-8658-8
+.
+
+
+
+
+^ 
+ 
+ 
+ 
+ 
+ 
+Sherman, Don (February 2008). "The Rotary Club". 
+Automobile Magazine
+. pp. 
+76–
+79.
+
+
+
+
+^
+ 
+Pander, Jürgen (2007-01-21). 
+"Wankel-Jubiläum: Warten aufs Wunder"
+. 
+Spiegel Online
+ (in German). Der Spiegel Online
+. Retrieved 
+2018-05-05
+.
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 56. 
+ISBN
+ 
+978-3-540-05886-1
+.
+
+### CHUNK 54
+ (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 56. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Hege, J.B. (2015). 
+The Wankel Rotary Engine: A History
+. EBL-Schweitzer. McFarland. p. 52. 
+ISBN
+ 
+978-0-7864-8658-8
+.
+
+
+
+
+^
+ 
+Basshuysen, Richard van; Schäfer, Fred; Springer Fachmedien Wiesbaden (2017). 
+Handbuch Verbrennungsmotor Grundlagen, Komponenten, Systeme, Perspektiven
+ (in German). Wiesbaden. p. 484. 
+ISBN
+ 
+978-3-658-10901-1
+. 
+OCLC
+ 
+979563571
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^ 
+ 
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 54. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Hege, J.B. (2015). 
+The Wankel Rotary Engine: A History
+. EBL-Schweitzer. McFarland. p. 57. 
+ISBN
+ 
+978-0-7864-8658-8
+.
+
+
+
+
+^
+
+### CHUNK 55
+ (2015). 
+The Wankel Rotary Engine: A History
+. EBL-Schweitzer. McFarland. p. 57. 
+ISBN
+ 
+978-0-7864-8658-8
+.
+
+
+
+
+^
+ 
+Hege, J.B. (2015). 
+The Wankel Rotary Engine: A History
+. EBL-Schweitzer. McFarland. p. 65. 
+ISBN
+ 
+978-0-7864-8658-8
+.
+
+
+
+
+^
+ 
+Hege, J.B. (2015). 
+The Wankel Rotary Engine: A History
+. EBL-Schweitzer. McFarland. p. 66. 
+ISBN
+ 
+978-0-7864-8658-8
+.
+
+
+
+
+^
+ 
+Hege, J.B. (2015). 
+The Wankel Rotary Engine: A History
+. EBL-Schweitzer. McFarland. p. 67. 
+ISBN
+ 
+978-0-7864-8658-8
+.
+
+
+
+
+^
+ 
+Faith, N. (1975). 
+Wankel: The Curious Story Behind the Revolutionary Rotary Engine
+. Stein and Day. p. 45. 
+ISBN
+ 
+978-0-8128-1719-5
+.
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. pp. 
+127–
+131. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+"Moller Skycar"
+, 
+Moller Freedom Motors, formerly Outboard Marine Corporation (Evinrude/Johnson)
+
+### CHUNK 56
+
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+"Moller Skycar"
+, 
+Moller Freedom Motors, formerly Outboard Marine Corporation (Evinrude/Johnson) Rotary engines
+, archived from 
+the original
+ on August 13, 2015
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 110. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+SAE paper 2014-01-2160
+
+
+
+
+^
+ 
+Yamamoto, Kenichi (1971), 
+Rotary Engine
+, Toyo Kogyo, pp. 
+65–
+66
+, retrieved 
+11 February
+ 2024
+
+
+
+
+^
+ 
+Yamamoto, Kenichi (1971), 
+Rotary Engine
+, Toyo Kogyo, p. 67 Fig 5.10, 11
+
+
+
+
+^
+ 
+Yamamoto, Kenichi (1981), 
+Rotary Engine
+, Toyo Kogyo, pp. 32, 33 Fig. 3.39–41
+
+
+
+
+^
+ 
+Ansdale, Richard F, 
+Der Wankelmotor
+ (in German), Motorbuch-Verlag, pp. 
+141–
+50
+
+
+
+
+^
+ 
+Yamamoto, Kenichi (1971). Rotary Engine. Toyo Kogyo. Page 60-61
+
+
+
+
+^
+ 
+Norbye, Jan P. (1971), 
+The Wankel Engine: NSU and Citroën develops the Wankel
+, Chilton, pp. 139 and
+
+### CHUNK 57
+ogyo. Page 60-61
+
+
+
+
+^
+ 
+Norbye, Jan P. (1971), 
+The Wankel Engine: NSU and Citroën develops the Wankel
+, Chilton, pp. 139 and 305, 
+ISBN
+ 
+0-8019-5591-2
+
+
+
+
+^
+ 
+SAE paper 790435
+
+
+
+
+^
+ 
+US 3007460
+ 
+, M. Bentele, C. Jones, F. P. Sollinger, 11/7/61 and 
+US 3155085
+ 
+, C. Jones, R. E. Mount, 4/29/63 and 
+US 3196850
+ 
+, C. Jones, 7/27/65
+
+
+
+
+^
+ 
+Yamamoto, Kenichi (1971). 
+Rotary Engine
+. Toyo Kogyo. p. 109. 
+Fig 10.4
+
+
+
+
+^
+ 
+Yamamoto, Kenichi (1971). 
+Rotary Engine
+. Toyo Kogyo. p. 86. 
+Fig 7.7
+
+
+
+
+^
+ 
+Nash, David H. (1977-03-02), "Rotary Engine Geometry", 
+Mathematics Magazine
+, 
+50
+ (2), Taylor & Francis: 
+87–
+89, 
+doi
+:
+10.1080/0025570X.1977.11976621
+, 
+JSTOR
+ 
+2689731
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 55. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+
+
+### CHUNK 58
+ p. 55. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^ 
+ 
+ 
+"Internal-combustion engine"
+. Columbia Electronic Encyclopedia. 2008
+. Retrieved 
+2011-01-04
+.
+
+
+
+
+^
+ 
+Heintz, Html; Kurt. 
+"Techniklexikon"
+. 
+der-wankelmotor.de
+.
+{{
+cite web
+}}
+:  CS1 maint: multiple names: authors list (
+link
+)
+
+
+
+
+^
+ 
+For a detailed calculation of the curvature of a circular arc approximating the optimal Wankel rotor shape, see 
+Badr, O.; Naik, S.; O'Callaghan, P.W.; Probert, S.D. (1991). "Rotary Wankel engines as expansion devices in steam Rankine-cycle engines". 
+Applied Energy
+. 
+39
+ (1): 
+59–
+76. 
+Bibcode
+:
+1991ApEn...39...59B
+. 
+doi
+:
+10.1016/0306-2619(91)90063-4
+.
+
+
+
+
+^ 
+ 
+ 
+ 
+ 
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 86. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 124. 
+ISBN
+ 
+
+
+### CHUNK 59
+)
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 124. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^ 
+ 
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 72. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Kenichi Yamamoto: Rotary Engine, 1981, 3. 3. 2, Fig. 3.17 page -25-
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 75. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Developed Technologies of the New Rotary Engine (RENESIS)
+, Technical Paper, SAE
+
+
+
+
+^
+ 
+SAE Paper 950454 Page 7
+
+
+
+
+^
+ 
+Yamamoto, Kenichi. 
+Rotary engine
+, fig 4.26 & 4.27, Mazda, 1981, p. 46.
+
+
+
+
+^ 
+ 
+ 
+Kohno, T; et al., 
+SAE paper 
+
+### CHUNK 60
+, Kenichi. 
+Rotary engine
+, fig 4.26 & 4.27, Mazda, 1981, p. 46.
+
+
+
+
+^ 
+ 
+ 
+Kohno, T; et al., 
+SAE paper 790435
+, Toyota
+
+
+
+
+^
+ 
+SAE paper 720466, Ford 1979 patent 
+CA 1045553
+ 
+
+
+
+
+^
+ 
+Ming-June Hsieh et al. SAE papers
+
+
+
+
+^
+ 
+van Basshuysen, R.; Schäfer, F. (2017). 
+Handbuch Verbrennungsmotor: Grundlagen, Komponenten, Systeme, Perspektiven
+. ATZ/MTZ-Fachbuch (in German). Springer Fachmedien Wiesbaden. p. 487. 
+ISBN
+ 
+978-3-658-10901-1
+.
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. pp. 
+137–
+138. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 93. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Kenichi Yamamoto, Rotary Engine 1981, Page 50
+
+
+
+
+^
+ 
+Dieter Korp, Protokoll einer Er
+
+### CHUNK 61
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Kenichi Yamamoto, Rotary Engine 1981, Page 50
+
+
+
+
+^
+ 
+Dieter Korp, Protokoll einer Erfindung - Der Wankelmotor, Motorbuch Verlag Stuttgart 1975 
+ISBN
+ 
+3-87943-381-X
+ p. 77-78
+
+
+
+
+^
+ 
+Ansdale, R.F.; Keller, H. (1971). 
+Der Wankelmotor: Konstruktion und Wirkungsweise
+ (in German). Stuttgart: Motorbuch-Verlag. p. 161.
+
+
+
+
+^ 
+ 
+ 
+'Rotary Engine', Kenichi Yamamoto; Toyo Kogyo, 1971, p. 104
+
+
+
+
+^ 
+ 
+ 
+K. Yamamoto, T. Muroki, T. KobayakawaSAE Transactions, Vol. 81, SECTION 2: Papers 720197–720445 (1972), pp. 1296-1302 (7 pages) page 1297 test run down to 56 Oktan
+
+
+
+
+^
+ 
+Rotary Engine and Fuel Kenichi Yamamoto 8th World Petroleum Congress Moskow 1971, Paper Number: WPC-14403
+
+
+
+
+^
+ 
+SAE Paper 2001-01-1844/4263 Direct injection stratified charge wankel engines
+
+
+
+
+^
+ 
+Direct Injection Stratified Charge Rotary Engine Zachary Steven Votaw .A., Wright State University, 2011 p. 6
+
+
+
+
+^ 
+ 
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 87. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+
+
+### CHUNK 62
+smotoren
+ (in German). Berlin, Heidelberg, New York. p. 87. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^ 
+ 
+ 
+Shimizu, Ritsuharu; Okimoto, Haruo; Tashima, Seijo; Fuse, Suguru (1995), 
+"The Characteristics of Fuel Consumption and Exhaust Emissions of the Side Exhaust Port Rotary Engine"
+, 
+SAE Technical Paper Series
+, vol. 1, SAE, 
+doi
+:
+10.4271/950454
+
+
+
+
+^
+ 
+Rotary Engine', Kenichi Yamamoto; Toyo Kogyo, 1971 lower HC emisions with dual ignition with leading and trailing spark plug, p. 104
+
+
+
+
+^
+ 
+Rotary Engine', Kenichi Yamamoto; Toyo Kogyo, 1971 lower HC emisions with dual ignition with leading and trailing spark plug, Fig.13.9 p. 141-
+
+
+
+
+^
+ 
+Mazda Motor Corp.: Ritsuharu Shimizu, Tomoo Tadokoro, Toru Nakanishi, and Junichi Funamoto Mazda 4-Rotor Rotary Engine for the Le Mans 24-Hour Endurance Race SAE Paper 920309 Page 7
+
+
+
+
+^
+ 
+Jones, C (1979), 
+790621
+ 
+(PDF)
+, SAE, 
+doi
+:
+10.4271/790621
+
+
+
+
+^
+ 
+SAE paper 710582
+
+
+
+
+^
+ 
+Danieli, GA (1974), 
+740186
+ 
+(PDF)
+, SAE, 
+doi
+:
+10.4271/740186
+
+
+
+
+^ 
+ 
+ 
+ 
+ 
+Dobler, Helmut (2000). "Renesis — ein neuer Wankelmotor von Mazda".
+
+### CHUNK 63
+740186
+ 
+(PDF)
+, SAE, 
+doi
+:
+10.4271/740186
+
+
+
+
+^ 
+ 
+ 
+ 
+ 
+Dobler, Helmut (2000). "Renesis — ein neuer Wankelmotor von Mazda". 
+MTZ - Motortechnische Zeitschrift
+ (in German). 
+61
+ (
+7–
+8). Springer: 
+440–
+442. 
+doi
+:
+10.1007/bf03226583
+. 
+ISSN
+ 
+0024-8525
+.
+
+
+
+
+^
+ 
+"Mazda kills off RX-8 sports coupe"
+. 
+Autocar
+. Retrieved 
+2014-02-01
+.
+
+
+
+
+^
+ 
+Seibt, Torsten (January 30, 2023). 
+"Mazda MX-30 R-EV Wankelmotor als Range Extender: Der neue Wankelmotor von Mazda im Detail"
+. 
+auto motor und sport
+.
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 64. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^ 
+ 
+ 
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 65. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^ 
+ 
+ 
+ 
+Yamamoto, K. (1981). 
+Rotary Engine
+. Sankaid
+
+### CHUNK 64
+CLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^ 
+ 
+ 
+ 
+Yamamoto, K. (1981). 
+Rotary Engine
+. Sankaido. p. 15. 
+ISBN
+ 
+978-99973-41-17-4
+. 
+Formula 2.27 and 2.30; Yamamoto uses V
+h
+ for V
+k
+. In this article, V
+k
+ is used for convenience
+
+
+
+
+^
+ 
+Corbat, Jean Pierre; Pawlowski, Uwe L. (1973). 
+Kreiskolbenmotoren des Systems NSU-Wankel ihre Berechnung und Auslegung
+ (in Swiss High German). Basel. p. 8. 
+ISBN
+ 
+978-3-0348-5974-5
+. 
+OCLC
+ 
+913700185
+. 
+Formula 56 with k=R/e
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Bender, Beate; Göhlich, Dietmar (2019). 
+Dubbel Taschenbuch für den Maschinenbau Band 3
+ (in German). Berlin: Springer-Verlag. p. 126. 
+ISBN
+ 
+978-3-662-59714-9
+. 
+OCLC
+ 
+1105131471
+.
+
+
+
+
+^
+ 
+Ansdale, R.F.; Keller, H. (1971). 
+Der Wankelmotor: Konstruktion und Wirkungsweise
+ (in German). Stuttgart: Motorbuch-Verlag. p. 79 formula 6.13.
+
+
+
+
+^
+ 
+v Manteuffel, P. (1971). "Rotary Piston Engines". 
+Mechanical Prime Movers
+. London: Macmillan. p. 74.
+
+### CHUNK 65
+. 79 formula 6.13.
+
+
+
+
+^
+ 
+v Manteuffel, P. (1971). "Rotary Piston Engines". 
+Mechanical Prime Movers
+. London: Macmillan. p. 74. 
+doi
+:
+10.1007/978-1-349-01182-7_6
+. 
+ISBN
+ 
+978-1-349-01184-1
+.
+
+
+
+
+^
+ 
+Rotary-Trochoidal Engine Nomenclature and Terminology - SAE J1220
+, Society of Automotive Engineers, June 1978
+
+
+
+
+^
+ 
+Ludvigsen, Karl
+ (2003). 
+"How Big Are Wankel Engines?"
+. Bentley Publishers.
+
+
+
+
+^
+ 
+Yamamoto, Kenichi (1981). 
+Rotary Engine
+. Sankaido. p. 37. 
+ISBN
+ 
+978-99973-41-17-4
+. 
+Table 4.1; Yamamoto uses Vh for Vk. In this article, Vk is used for convenience
+
+
+
+
+^
+ 
+Froede, Walter G. (1961). "Kreiskolbenmotoren Bauart NSU-Wankel". 
+MTZ - Motortechnische Zeitschrift
+ (in German). 
+22
+ (1): 
+1–
+10.
+
+
+
+
+^
+ 
+Okimoto, Haruo (2002). "Der Rotationskolbenmotor Renesis". 
+MTZ - Motortechnische Zeitschrift
+ (in German). 
+63
+ (10). Springer: 810. 
+doi
+:
+10.1007/bf03226650
+. 
+ISSN
+ 
+0024-8525
+.
+   
+Okimoto, Haruo (2002). "The Renesis rotary engine". 
+MTZ Worldwide
+. 
+63
+ (10). Springer: 8. 
+doi
+:
+10.1007/bf032
+
+### CHUNK 66
+8525
+.
+   
+Okimoto, Haruo (2002). "The Renesis rotary engine". 
+MTZ Worldwide
+. 
+63
+ (10). Springer: 8. 
+doi
+:
+10.1007/bf03227573
+. 
+ISSN
+ 
+2192-9114
+.
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 66. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Ansdale, R.F.; Keller, H. (1971). 
+Der Wankelmotor: Konstruktion und Wirkungsweise
+ (in German). Stuttgart: Motorbuch-Verlag. pp. 
+82–
+83.
+
+
+
+
+^
+ 
+Wankel, Felix (1964). "Die Anzahl der Zylinder und Kammern bei durchsatzgleichen Viertaktmotoren mit Hubkolben und mit Rotationskolben der Trochoidenbauart". 
+MTZ - Motortechnische Zeitschrift
+ (in German). 
+25
+ (12): 
+489–
+494.
+
+
+
+
+^
+ 
+US 2988065
+, Wankel, Felix, "Rotary internal combustion engine", issued 1958-11-17
+ 
+, p. 16
+
+
+
+
+^ 
+ 
+ 
+Huber, Eugen Wilhelm (1960). "Thermodynamische Untersuchungen an der Kreiskolbenmaschine". 
+VDI-Berichte
+ (in German). 
+45
+: 
+13–
+29.
+
+
+
+
+^
+ 
+Küttner, Karl-Heinz (1993). 
+Kolben
+
+### CHUNK 67
+ an der Kreiskolbenmaschine". 
+VDI-Berichte
+ (in German). 
+45
+: 
+13–
+29.
+
+
+
+
+^
+ 
+Küttner, Karl-Heinz (1993). 
+Kolbenmaschinen
+ (in German). B. G. Teubner. p. 391. 
+doi
+:
+10.1007/978-3-322-94040-7
+. 
+ISBN
+ 
+978-3-322-94040-7
+.
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 133. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+TECHNISCHE DMSB-BESTIMMUNGEN 2023 
+[1]
+, 1 January 2023
+
+
+
+
+^
+ 
+"Mazda's radical new rotary tech"
+. Autocar. 2011-06-27
+. Retrieved 
+2014-02-01
+.
+
+
+
+
+^
+ 
+"Rotationskolbenbrennkraftmaschine und Betriebsverfahren hierfür"
+.
+
+
+
+
+^
+ 
+Loktionov, E Yu; Pasechnikov, N A (2021-02-01). 
+"First tests of laser ignition in Wankel engine"
+. 
+Journal of Physics: Conference Series
+. 
+1787
+ (1) 012031. IOP Publishing. 
+Bibcode
+:
+2021JPhCS1787a2031L
+. 
+doi
+:
+10.1088/1742-6596/1787/1/012031
+.
+
+### CHUNK 68
+012031. IOP Publishing. 
+Bibcode
+:
+2021JPhCS1787a2031L
+. 
+doi
+:
+10.1088/1742-6596/1787/1/012031
+. 
+ISSN
+ 
+1742-6588
+.
+
+
+
+
+^ 
+ 
+ 
+Eichlseder, Helmut; Klüting, Manfred; Piock, Walter F. (2008). 
+Grundlagen und Technologien des Ottomotors
+ (in German). Wien. p. 222. 
+ISBN
+ 
+978-3-211-25774-6
+. 
+OCLC
+ 
+255415808
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Autocar
+ magazine, week ending Dec 17, 1970
+
+
+
+
+^
+ 
+SAE paper 870449
+
+
+
+
+^
+ 
+Wolf-Dieter Bensinger: Rotationskolben-Verbrennungsmotoren, Springer, Berlin/Heidelberg/New York 1973, 
+ISBN
+ 
+978-3-642-52174-4
+. p. 141
+
+
+
+
+^ 
+ 
+ 
+ 
+"Hydrogen & Multi-fuel Engines for Sustainable Power & Mobility"
+ 
+(PDF)
+. Archived from 
+the original
+ 
+(PDF)
+ on 2021-02-25.
+
+
+
+
+^
+ 
+Wankel Journal, No. 74, January 2015, p. 23
+
+
+
+
+^ 
+ 
+ 
+Wankel Journal
+ (74): 22. January 2015.
+ 
+{{
+cite journal
+}}
+: 
+Missing or empty 
+|title=
+ (
+help
+)
+
+
+
+
+^
+ 
+Wankel Journal, No. 74, January 2015, p. 24
+
+
+
+
+^
+ 
+Wankel Journal, No. 74, January 2015, p. 27
+
+
+
+
+^
+ 
+"W
+
+### CHUNK 69
+^
+ 
+Wankel Journal, No. 74, January 2015, p. 24
+
+
+
+
+^
+ 
+Wankel Journal, No. 74, January 2015, p. 27
+
+
+
+
+^
+ 
+"Wirtschaft: Wankel Supertec forscht in Cottbus mit Uni-Nachwuchs"
+. 
+lr-online.de
+ (in German). 2020-09-05
+. Retrieved 
+2023-01-29
+.
+
+
+
+
+^
+ 
+Ozcanli, Mustafa; Bas, Oguz; Akar, Mustafa Atakan; Yildizhan, Safak; Serin, Hasan (2018). 
+"Recent studies on hydrogen usage in Wankel SI engine"
+. 
+International Journal of Hydrogen Energy
+. 
+43
+ (38): 
+18037–
+18045. 
+Bibcode
+:
+2018IJHE...4318037O
+. 
+doi
+:
+10.1016/j.ijhydene.2018.01.202
+. 
+S2CID
+ 
+103553203
+.
+
+
+
+
+^
+ 
+1980 BMF report hydrogen Audi EA871 comparison to a hydrogen reciprocating piston engine page 11. Page 8 higher lubricating oil consumption caused by hydrogen
+
+
+
+
+^
+ 
+"The rotary engine is ideally suited to burn hydrogen without backfiring that can occur when hydrogen is burned in a reciprocating piston engine"
+ 
+(PDF)
+. Archived from 
+the original
+ 
+(PDF)
+ on June 11, 2004
+. Retrieved 
+2011-01-05
+.
+
+
+
+
+^
+ 
+Wakayama, Norihira; Morimoto, Kenji; Kashiwagi, Akihiro; Saito, Tomoaki (13–16 June 2006). 
+Development of Hydrogen Rotary Engine Vehicle
+ 
+(PDF)
+. 16th World Hydrogen Energy Conference
+. Retrieved 
+19
+
+### CHUNK 70
+ashiwagi, Akihiro; Saito, Tomoaki (13–16 June 2006). 
+Development of Hydrogen Rotary Engine Vehicle
+ 
+(PDF)
+. 16th World Hydrogen Energy Conference
+. Retrieved 
+19 January
+ 2023
+.
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 58. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Hege, John B. (2006). 
+The Wankel rotary engine: a history
+. Jefferson, N.C.: McFarland. p. 118. 
+ISBN
+ 
+978-0-7864-2905-9
+. 
+OCLC
+ 
+123964823
+.
+
+
+
+
+^
+ 
+Dieter Korp Protokoll einer Erfindung: Der Wankelmotor Lizenznehmer Page 220-221
+
+
+
+
+^
+ 
+"Revolutionary Engine"
+. 
+Popular Mechanics
+. Vol. 113, no. 4. April 1960. pp. 
+96–
+97, 258
+. Retrieved 
+2018-05-05
+.
+
+
+
+
+^
+ 
+Hege, John B. (2006). 
+The Wankel rotary engine: a history
+. Jefferson, N.C.: McFarland. p. 208. 
+ISBN
+ 
+978-0-7864-2905-9
+. 
+OCLC
+ 
+123964823
+.
+
+
+
+
+^
+ 
+BSA
+'s 
+David Garside
+ used a 
+F&F
+ single-rotor engine to develop twin-rotor Wankel motorcycles that reached
+
+### CHUNK 71
+
+. 
+OCLC
+ 
+123964823
+.
+
+
+
+
+^
+ 
+BSA
+'s 
+David Garside
+ used a 
+F&F
+ single-rotor engine to develop twin-rotor Wankel motorcycles that reached production: first the air-cooled 
+Norton Classic
+, followed by the liquid-cooled 
+Norton Commander
+ & 
+Norton F1
+. MidWest, an engineering firm at 
+Staverton Airport
+, went on to develop the BSA/Norton engine into the 
+MidWest AE series
+ 
+light aviation
+ engines.
+
+
+
+
+^
+ 
+Pyatov, Ivan (September–December 2000). 
+"RAP from inside and outside (РПД изнутри и снаружи)"
+. 
+Engine (Двигатель)
+ (in Russian). 5–6 (11–12). Archived from 
+the original
+ on 2011-10-02
+. Retrieved 
+2011-12-11
+.
+
+
+
+
+^
+ 
+Hege, John B. (2006). 
+The Wankel rotary engine: a history
+. Jefferson, N.C.: McFarland. p. 117. 
+ISBN
+ 
+978-0-7864-2905-9
+. 
+OCLC
+ 
+123964823
+.
+
+
+
+
+^ 
+ 
+ 
+Norbye, Jan P. (April 1966). 
+"Test Drive of a US car with a rotating combustion engine"
+. 
+Popular Science
+. Vol. 188, no. 4. pp. 
+102–
+107
+. Retrieved 
+2018-05-05
+.
+
+
+
+
+^ 
+ 
+ 
+ 
+Ansdale, R.F.; Keller, H. (1971). 
+Der Wankelmotor: Konstruktion und Wirkungsweise
+ (in German). Stuttgart: Motorbuch-Verlag. p. 205.
+
+
+
+
+^ 
+ 
+ 
+Ansdale, R.F.; Keller, H. (
+
+### CHUNK 72
+1971). 
+Der Wankelmotor: Konstruktion und Wirkungsweise
+ (in German). Stuttgart: Motorbuch-Verlag. p. 205.
+
+
+
+
+^ 
+ 
+ 
+Ansdale, R.F.; Keller, H. (1971). 
+Der Wankelmotor: Konstruktion und Wirkungsweise
+ (in German). Stuttgart: Motorbuch-Verlag. p. 203.
+
+
+
+
+^
+ 
+Ansdale, Richard F. (1995). 
+Der Wankelmotor. Konstruktion und Wirkungsweise
+ (in German). Motorbuch-Verlag. pp. 73, 
+91–
+92, 200. 
+ISBN
+ 
+978-3-87943-214-1
+.
+
+
+
+
+^ 
+ 
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, DE / New York, NY. p. 85. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 88. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. pp. 
+82–
+83. 
+ISBN
+ 
+978-3-540-058
+
+### CHUNK 73
+ieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. pp. 
+82–
+83. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Bosch, Robert, ed. (2022). 
+Automotive Handbook
+. Wiley. p. 642. 
+ISBN
+ 
+978-1-119-91190-6
+.
+
+
+
+
+^
+ 
+Yamamoto, K; et al., 
+Combustion characteristics of Rotary Engines. SAE paper 720357
+, Mazda
+
+
+
+
+^
+ 
+"Mazda stays loyal to rotary engines"
+. 
+Daily Telegraph
+. 2012-09-18. 
+Archived
+ from the original on 2022-01-12
+. Retrieved 
+2014-02-01
+.
+
+
+
+
+^
+ 
+English, Andrew (5 March 2010). 
+"Audi A1 e-tron"
+. Geneva Motor Show. 
+Daily Telegraph
+. 
+Archived
+ from the original on 2022-01-12.
+
+
+
+
+^
+ 
+Kagawa, Okazaki ...; et al., 
+Study of Direct Injection Stratiefied Rotary Engine SAE Paper 930677
+, Mazda
+
+
+
+
+^
+ 
+Sinitsky, John (11 September 2008). 
+"Wankel Engine - Part III - problems and disadvantages"
+. BrighthubEngineering.com
+. Retrieved 
+2014-02-01
+.
+
+
+
+
+^
+ 
+Wu, Wei; et al., 
+SAE paper 2014-01-2160
+, University of Florida
+
+
+
+
+^
+ 
+Norbye, Jan P., 
+The Wankel engine Design Development Applications
+, p.134
+
+
+
+
+^
+
+
+### CHUNK 74
+ Wei; et al., 
+SAE paper 2014-01-2160
+, University of Florida
+
+
+
+
+^
+ 
+Norbye, Jan P., 
+The Wankel engine Design Development Applications
+, p.134
+
+
+
+
+^
+ 
+Schreffler, Roger (29 February 2012). 
+"Mazda Design Breakthrough May Give Rotary New Life"
+. 
+wardsAuto.com
+. Archived from 
+the original
+ on 3 February 2015
+. Retrieved 
+10 April
+ 2015
+.
+
+
+
+
+^
+ 
+Eberle, Meinrad K.; Klomp, Edward D. (1973-02-01). "An Evaluation of the Potential Performance Gain from Leakage Reduction in Rotary Engines". 
+SAE Technical Paper Series
+. Vol. 1. p. 454. 
+doi
+:
+10.4271/730117
+.
+
+
+
+
+^ 
+ 
+ 
+ 
+"Introducing the 2023 Mazda MX-30"
+. 9 June 2022.
+
+
+
+
+^
+ 
+"The Wankel Wager"
+. 
+Time
+. 1967-09-08. Archived from 
+the original
+ on December 15, 2008
+. Retrieved 
+2011-12-11
+.
+
+
+
+
+^ 
+ 
+ 
+ 
+Van Basshuysen, Richard; Wilmers, Gottlieb (1978-02-01). "An Update of the Development on the New Audi NSU Rotary Engine Generation". 
+SAE Technical Paper Series
+. Vol. 1. SAE International. p. 3. 
+doi
+:
+10.4271/780418
+. 
+ISSN
+ 
+0148-7191
+.
+
+
+
+
+^
+ 
+Van Basshuysen, Richard; Wilmers, Gottlieb (1978-02-01). "An Update of the Development on the New Audi NSU Rotary Engine Generation". 
+SAE Technical Paper Series
+. Vol. 1. SAE International. p
+
+### CHUNK 75
+; Wilmers, Gottlieb (1978-02-01). "An Update of the Development on the New Audi NSU Rotary Engine Generation". 
+SAE Technical Paper Series
+. Vol. 1. SAE International. p. 11. 
+doi
+:
+10.4271/780418
+. 
+ISSN
+ 
+0148-7191
+.
+
+
+
+
+^
+ 
+Van Basshuysen, Richard; Wilmers, Gottlieb (1978-02-01). "An Update of the Development on the New Audi NSU Rotary Engine Generation". 
+SAE Technical Paper Series
+. Vol. 1. SAE International. p. 16. 
+doi
+:
+10.4271/780418
+. 
+ISSN
+ 
+0148-7191
+.
+
+
+
+
+^
+ 
+Masaki Ohkubo et al., SAE paper 2004-01-1790
+
+
+
+
+^
+ 
+"Rotary Engine (chapter 1: today and tomorrow)"
+ 
+(PDF)
+. Mazda. 1999. pp. 
+6–
+7. Archived from 
+the original
+ 
+(PDF)
+ on July 5, 2010
+. Retrieved 
+2011-12-11
+.
+
+
+
+
+^
+ 
+Mukai, Anna (2012-06-25). 
+"Mazda Ends Hummm as Rotary Gives Way to Hydrogen Cells: Cars"
+. 
+Bloomberg
+. Retrieved 
+2012-06-26
+.
+
+
+
+
+^ 
+ 
+ 
+Stegmaier, Gerd; Fleck, Thiemo; Seibt, Torsten (2023-01-13). 
+"Mazda MX-30 e-Skyactiv R-EV (2023): Elektro-SUV mit Wankelmotor als Range Extender"
+. 
+auto-motor-und-sport.de
+ (in German)
+. Retrieved 
+2023-01-15
+.
+
+
+
+
+^ 
+ 
+ 
+"Mazda
+
+### CHUNK 76
+2023): Elektro-SUV mit Wankelmotor als Range Extender"
+. 
+auto-motor-und-sport.de
+ (in German)
+. Retrieved 
+2023-01-15
+.
+
+
+
+
+^ 
+ 
+ 
+"Mazda MX-30 e-Skyactiv R-EV the plug-in hybrid that always drives electric | Inside Mazda"
+.
+
+
+
+
+^
+ 
+"Rearview mirror"
+. 
+Ward's Auto World
+. 2000-02-01. Archived from 
+the original
+ on 2011-11-05
+. Retrieved 
+2013-04-10
+.
+
+
+
+
+^
+ 
+Faith, Nicholas (1975). 
+Wankel: The Curious Story Behind the Revolutionary Rotary Engine
+. Stein and Day. p. 
+219
+. 
+ISBN
+ 
+978-0-8128-1719-5
+.
+
+
+
+
+^
+ 
+Hege, John B. (24 August 2017). 
+The Wankel Rotary Engine: A History
+. McFarland. 
+ISBN
+ 
+978-0-7864-8658-8
+. Retrieved 
+2018-05-04
+ – via Google Books.
+
+
+
+
+^
+ 
+Lund, Robert (May 1973). 
+"Detroit Listening Post"
+. 
+Popular Mechanics
+. Vol. 139, no. 5. p. 26
+. Retrieved 
+2012-08-14
+.
+
+
+
+
+^
+ 
+Dunne, Jim (April 1973). 
+"Detroit Report"
+. 
+Popular Science
+. Vol. 201, no. 4. p. 32
+. Retrieved 
+2011-12-11
+.
+
+
+
+
+^
+ 
+Hartford, Bill; Lund, Robert (January 1975). 
+"Half-pints for higher MPG"
+. 
+Popular Mechanics
+. Vol. 143, no. 1. p. 129
+. Retrieved 
+2011-12-
+
+### CHUNK 77
+, Bill; Lund, Robert (January 1975). 
+"Half-pints for higher MPG"
+. 
+Popular Mechanics
+. Vol. 143, no. 1. p. 129
+. Retrieved 
+2011-12-11
+.
+
+
+
+
+^
+ 
+Lund, Robert (December 1974). 
+"Detroit Listening Post: Rotary is no gas hog, says AMC"
+. 
+Popular Mechanics
+. Vol. 142, no. 6. p. 27
+. Retrieved 
+2012-08-14
+.
+
+
+
+
+^
+ 
+"GM unveils rotary engine"
+. 
+Reading Eagle
+. UPI. May 27, 1973. p. 3.
+
+
+
+
+^
+ 
+Hinckley, Jim; Robinson, Jon G. (2005). 
+The Big Book of Car Culture: The Armchair Guide to Automotive Americana
+. MBI Publishing. p. 122. 
+ISBN
+ 
+978-0-7603-1965-9
+. Retrieved 
+2011-12-11
+.
+
+
+
+
+^
+ 
+"Did You Know Lada Made rotary Rotary-Engined Cars?"
+. 
+drivemag.com
+. 21 March 2017.
+
+
+
+
+^
+ 
+"LADA – part II" Autosoviet, undated
+, retrieved on September 27, 2008.
+
+
+
+
+^
+ 
+"ЛИНИЯ ЖИЗНИ – ЭПИТРОХОИДА" 01.07.2001
+ 
+Archived
+ 2008-10-04 at the 
+Wayback Machine
+, retrieved on September 27, 2008. 
+(in Russian)
+
+
+
+
+^
+ 
+Dark, Harris Edward (1974). 
+The Wankel Rotary Engine: Introduction and Guide
+. Indiana University Press. p. 80. 
+ISBN
+ 
+0-253-19021-5
+. 
+OCLC
+ 
+
+
+### CHUNK 78
+Dark, Harris Edward (1974). 
+The Wankel Rotary Engine: Introduction and Guide
+. Indiana University Press. p. 80. 
+ISBN
+ 
+0-253-19021-5
+. 
+OCLC
+ 
+59790157
+.
+
+
+
+
+^
+ 
+Chin, Joshua (2021-08-22). 
+"The Rotary Mazda 787B Won At Le Mans 30 Years Ago"
+. 
+automacha.com
+. Retrieved 
+2022-05-14
+.
+
+
+
+
+^
+ 
+Tare weight Peugeot 905 750kg
+
+
+
+
+^
+ 
+"Verbrauchsregeln der Gruppe C von 1982 bis 1991 – Motorsport kompakt erklärt"
+. 
+autonatives.de
+. 13 June 2021.
+
+
+
+
+^
+ 
+Merker, Günter P.; Teichmann, Rüdiger; Springer Fachmedien Wiesbaden (2019). 
+Grundlagen Verbrennungsmotoren Funktionsweise und alternative Antriebssysteme Verbrennung, Messtechnik und Simulation
+ (in German). Wiesbaden, Germany. p. 484. 
+ISBN
+ 
+978-3-658-23556-7
+. 
+OCLC
+ 
+1062240250
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+Ribau, João; Silva, Carla; Brito, Francisco P.; Martins, Jorge (2012). "Analysis of four-stroke, Wankel, and microturbine based range extenders for electric vehicles". 
+Energy Conversion and Management
+. 
+58
+. Elsevier BV: 
+120–
+133. 
+Bibcode
+:
+2012ECM....58..120R
+. 
+doi
+:
+10.1016/j.enconman.2012.01.011
+. 
+
+
+### CHUNK 79
+. Elsevier BV: 
+120–
+133. 
+Bibcode
+:
+2012ECM....58..120R
+. 
+doi
+:
+10.1016/j.enconman.2012.01.011
+. 
+ISSN
+ 
+0196-8904
+.
+
+
+
+
+^
+ 
+Mildenhall, Owen (2013-11-25). 
+"Mazda 2 EV gets new rotary range extender engine"
+. 
+Auto Express
+. Retrieved 
+2014-02-01
+.
+
+
+
+
+^
+ 
+Hagon, Toby (2012-02-21). 
+"Mazda2 EV range extender first drive review"
+. 
+Drive.com.au
+. Archived from 
+the original
+ on 2013-12-03
+. Retrieved 
+2014-02-01
+.
+
+
+
+
+^
+ 
+Ingram, Antony (26 November 2013). 
+"Rotary Engine Lives On In Range-Extended Electric Mazda 2 Prototype"
+. 
+greencarreports.com
+. Retrieved 
+2014-02-01
+.
+
+
+
+
+^
+ 
+Walker, M. (2004). 
+Mz
+. Enthusiasts Series. Redline Books. pp. 
+27–
+28. 
+ISBN
+ 
+978-0-9544357-4-5
+.
+
+
+
+
+^
+ 
+"Hercules W2000"
+. DE: Der Wankelmotor
+. Retrieved 
+2009-07-03
+.
+
+
+
+
+^
+ 
+Triumph-Norton Wankel
+, DE: Der Wankelmotor
+, retrieved 
+2012-08-14
+ (
+translation
+).
+
+
+
+
+^
+ 
+"JPSNorton.com when the British rotary engined racers ruled UK superbikes"
+. 
+jpsnorton.com
+.
+
+
+
+
+^
+ 
+Meads, Neil. 
+"Race Results - JPS Norton"
+. 
+jpsnorton.com
+.
+
+
+
+
+^
+ 
+Remembering Rotary
+
+### CHUNK 80
+ined racers ruled UK superbikes"
+. 
+jpsnorton.com
+.
+
+
+
+
+^
+ 
+Meads, Neil. 
+"Race Results - JPS Norton"
+. 
+jpsnorton.com
+.
+
+
+
+
+^
+ 
+Remembering Rotary: Suzuki RE-5
+, Faster and Faster, August 14, 2006, archived from 
+the original
+ on September 10, 2012
+, retrieved 
+2012-08-14
+
+
+
+
+^
+ 
+"Cycle World" Magazine March 1971
+
+
+
+
+^
+ 
+"2011 Van Veen OCR 1000 Rotary Engine Motorcycle"
+. 
+motorcycleclassics.com
+. September 2011.
+
+
+
+
+^
+ 
+Der Spiegel
+ Magazin, Ausgabe Nr. 38 von 1978, S. 256 ff.
+
+
+
+
+^
+ 
+MidWest Engines Ltd AE1100R Rotary Engine Manual
+
+
+
+
+^
+ 
+"Lockheed QT-2 / Lockheed Q-Star"
+. 
+all-aero.com
+. Retrieved 
+19 January
+ 2023
+.
+
+
+
+
+^
+ 
+"Wright Aeronautical (Wankel) RC2-60 Rotary Engine"
+. 
+National Air and Space Museum
+. Retrieved 
+19 January
+ 2023
+.
+
+
+
+
+^
+ 
+Jones, Charles (May 1972), 
+A Survey of Curtiss-Wright's 1958–1971 Rotating Combustion Engine Technological Developments
+ 
+(PDF)
+, SAE, vol. 1, Detroit, IL, USA, 
+doi
+:
+10.4271/720468
+{{
+citation
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+"Curtiss & Wright"
+. DE: Der Wankelmotor
+. Retrieved 
+2009-07-03
+.
+
+
+
+
+^
+ 
+Boulay, Pierre (1998). Guides Larivière (ed.). 
+Les hélicoptères français
+ (in French). Lariv
+
+### CHUNK 81
+ Der Wankelmotor
+. Retrieved 
+2009-07-03
+.
+
+
+
+
+^
+ 
+Boulay, Pierre (1998). Guides Larivière (ed.). 
+Les hélicoptères français
+ (in French). Larivière (Editions). 
+ISBN
+ 
+2-907051-17-2
+.
+
+
+
+
+^
+ 
+Kocivar, Ben (March 1977). "Wankel Fanliner". 
+Popular Science
+. p. 88. 
+ISSN
+ 
+0161-7370
+.
+
+
+
+
+^
+ 
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin, Heidelberg, New York. p. 142. 
+ISBN
+ 
+978-3-540-05886-1
+. 
+OCLC
+ 
+251737493
+.
+{{
+cite book
+}}
+:  CS1 maint: location missing publisher (
+link
+)
+
+
+
+
+^
+ 
+"Revisiting Rotaries", Peter Garrison, 
+Flying
+, 
+130
+, #6 (June 2003), pp. 90 ff.
+
+
+
+
+^
+ 
+"E4 Series - Jet Fuel Piston Engines"
+. 
+www.diamondaircraft.com
+.
+
+
+
+
+^
+ 
+"Austro Engine extends service intervals of rotary engines"
+. 26 November 2019.
+
+
+
+
+^
+ 
+Johnson, Richard (September 1995). 
+"A Flight Test Evaluation of the ASH-26E Self Launching 18-Meter Sailplane"
+ 
+(PDF)
+. Retrieved 
+31 August
+ 2011
+.
+
+
+
+
+^
+ 
+"GioCAS 2017 – Aeronautical Consultancy"
+. 
+e-goaeroplanes.com
+.
+
+
+
+
+^
+ 
+"Siemens, Diamond Aircraft, EADS unveil world's first serial hybrid aircraft"
+. 
+green.autoblog.com
+. 2011-07-03. Archived from 
+the
+
+### CHUNK 82
+e-goaeroplanes.com
+.
+
+
+
+
+^
+ 
+"Siemens, Diamond Aircraft, EADS unveil world's first serial hybrid aircraft"
+. 
+green.autoblog.com
+. 2011-07-03. Archived from 
+the original
+ on 2011-07-07
+. Retrieved 
+2011-07-03
+.
+
+
+
+
+^
+ 
+"EADS and Siemens enter long-term research partnership for electric aviation propulsion; MoU with Diamond Aircraft"
+. 
+greencarcongress.com
+. 2013-06-18
+. Retrieved 
+2014-02-01
+.
+
+
+
+
+^
+ 
+Ansdale, R.F.; Keller, H. (1971). 
+Der Wankelmotor: Konstruktion und Wirkungsweise
+ (in German). Stuttgart: Motorbuch-Verlag. p. 214.
+
+
+
+
+^
+ 
+Ansdale, R.F.; Keller, H. (1971). 
+Der Wankelmotor: Konstruktion und Wirkungsweise
+ (in German). Stuttgart: Motorbuch-Verlag. p. 215.
+
+
+
+
+^
+ 
+"Pats APU"
+. DE: Der Wankelmotor
+. Retrieved 
+2009-07-03
+.
+
+
+
+
+^
+ 
+Fernandez-Pello, A. Carlos; Pisano, Albert P.; Fu, Kelvin; Walther, David C.; Knobloch, Aaron; Martinez, Fabian; Senesky, Matt; Stoldt, Conrad; Maboudian, Roya; Sanders, Seth; Liepmann, Dorian (2004-01-14). 
+"MEMS Rotary Engine Power System"
+. 
+IEEJ Transactions on Sensors and Micromachines
+. 
+123
+ (9). Berkeley, California: University of California: 326. 
+Bibcode
+:
+2003IJTSM.123..326F
+. 
+doi
+:
+10.1541/ieejsmas
+
+### CHUNK 83
+achines
+. 
+123
+ (9). Berkeley, California: University of California: 326. 
+Bibcode
+:
+2003IJTSM.123..326F
+. 
+doi
+:
+10.1541/ieejsmas.123.326
+.
+
+
+
+
+^
+ 
+"34474_2"
+ 
+(PDF)
+. Archived from 
+the original
+ 
+(PDF)
+ on July 10, 2010
+. Retrieved 
+2010-12-20
+.
+
+
+
+
+^
+ 
+Road & Track
+. Bond Publishing. 1976. p. 89.
+
+
+
+
+^
+ 
+National Aeronautics and Space Administration, ed. (1978). 
+The Rotary Combustion Engine: A Candidate for General Aviation
+. NASA conference publication. p. 127.
+
+
+
+
+^ 
+ 
+ 
+Silvestri, William B.; Wright, Edward S. (1986). 
+"John Deere Score Engines in Marine Applications"
+ 
+(PDF)
+. American Society of Mechanical Engineers.
+
+
+
+
+^
+ 
+Jones, Charles (1992), 
+Stratified Charge Rotary Engine Developments at JDTI (John Deere Technologies International) from 1984 to 1991
+
+
+
+
+^
+ 
+Proft, Bill (9 October 2018). 
+"The John Deere Rotary Engine"
+. 
+greenmagazine.com
+.
+
+
+
+
+^
+ 
+"Deere Pulls Out of the Rotary Engine Race"
+. 
+Chicago Tribune
+. 10 April 1991.
+
+
+
+
+^
+ 
+Gilboy, James (15 September 2020). 
+"The 11.6-Liter, Big-Block Diesel Rotary Was Just Too Good for This World"
+. 
+thedrive.com
+. 
+Archived
+ from the original on 3 August 2021.
+
+
+
+
+^
+ 
+"Yanmar Diesel"
+. DE: Der Wankelmotor
+. Retrieved 
+2010-12-20
+.
+
+
+
+
+^
+ 
+Yamaoka, Kojiro; Tado, Hiro
+
+### CHUNK 84
+ 3 August 2021.
+
+
+
+
+^
+ 
+"Yanmar Diesel"
+. DE: Der Wankelmotor
+. Retrieved 
+2010-12-20
+.
+
+
+
+
+^
+ 
+Yamaoka, Kojiro; Tado, Hiroshi (1972), 
+720466
+, SAE
+
+
+
+
+^
+ 
+"TRW Wankel pre-tensioner system"
+. Retrieved 
+2009-07-03
+.
+
+
+
+
+^
+ 
+"Occupant Safety Systems"
+ 
+(PDF)
+. 
+mercedestechstore.com
+. pp. 
+11–
+12. Archived from 
+the original
+ 
+(PDF)
+ on 2008-02-28
+. Retrieved 
+2007-12-31
+.
+
+
+
+
+^
+ 
+"Original Equipment"
+. 
+trw-eos.com
+. Archived from 
+the original
+ on March 11, 2008
+. Retrieved 
+2009-02-12
+.
+
+
+
+
+^
+ 
+Steffens, Charles E. Jr. 
+"Seat belt pretensioner"
+. Retrieved 
+2007-04-11
+.
+
+
+
+
+
+
+References
+[
+edit
+]
+
+
+
+
+Yamaguchi, Jack K. (2003). 
+The Mazda RX-8: World's First 4-door, 4-seat Sports Car Plus Complete Histories of Mazda Rotary Engine development and Rotary Racing Around the World
+. Mazda Motor. 
+ISBN
+ 
+4-947659-02-5
+.
+
+
+Yamaguchi, Jack K. (1985). 
+The New Mazda RX-7 and Mazda Rotary Engine Sports Cars
+. New York: St. Martin's Press. 
+ISBN
+ 
+0-312-69456-3
+.
+
+
+Norbye, Jan P. (1973). "Watch out for Mazda!". 
+Automobile Quarterly
+. 
+XI.1
+: 
+50–
+61.
+
+
+Yamamoto, Kenichi (1971). 
+Rotary Engine
+. Toyo Kogyo
+
+### CHUNK 85
+. (1973). "Watch out for Mazda!". 
+Automobile Quarterly
+. 
+XI.1
+: 
+50–
+61.
+
+
+Yamamoto, Kenichi (1971). 
+Rotary Engine
+. Toyo Kogyo.
+
+
+Yamamoto, Kenichi (1981). 
+Rotary Engine
+. Sankaido. 
+ISBN
+ 
+978-99973-41-17-4
+.
+
+
+F Feller and M I Mech: "The 2-Stage Rotary Engine—A New Concept in Diesel Power" by Rolls-Royce, The Institution of Mechanical Engineers, Proceedings 1970–71, Vol. 185, pp. 139–158, D55-D66. London
+
+
+Ansdale, R. F. (1968). 
+The Wankel RC Engine, Design and Performance
+. Iliffe. 
+ISBN
+ 
+0-592-00625-5
+.
+
+
+P V Lamarque, "The Design of Cooling Fins for Motor-Cycle Engines", 
+The Institution of Automobile Engineers Magazine
+, London, March 1943 issue, and also in "The Institution of Automobile Engineers Proceedings", XXXVII, Session 1942–1943, pp. 99–134 and 309–312.
+
+
+Walter G. Froede (1961): 'The NSU-Wankel Rotating Combustion Engine', SAE Technical paper 610017
+
+
+M. R. Hayes & D. P. Bottrill: 'N.S.U. Spider -Vehicle Analysis', Mira (Motor Industry Research Association, UK), 1965.
+
+
+C Jones (Curtiss-Wright), "Rotary Combustion Engine is as Neat and Trim as the Aircraft Turbine", SAE Journal, May 1968, Vol 76, nº 5: 67–69. Also in SAE paper 670194.
+
+
+Jan P Norbye: "Rivals to
+
+### CHUNK 86
+at and Trim as the Aircraft Turbine", SAE Journal, May 1968, Vol 76, nº 5: 67–69. Also in SAE paper 670194.
+
+
+Jan P Norbye: "Rivals to the Wankel", Popular Science, Jan 1967; 'The Wankel Engine. Design, development, applications'; Chilton, 1972. 
+ISBN
+ 
+0-8019-5591-2
+
+
+Norbye, Jan P. (1971). 
+The Wankel engine Design Development Applications
+. Chilton. 
+ISBN
+ 
+0-8019-5591-2
+.
+
+
+T W Rogers et al. (Mobil), "Lubricating Rotary Engines", Automotive Engineering (SAE) May 1972, Vol 80, nº 5: 23–35.
+
+
+K Yamamoto et al. (Mazda): "Combustion and Emission Properties of Rotary Engines", Automotive Engineering (SAE), July 1972: 26–29. Also in SAE paper 720357.
+
+
+L W Manley (Mobil): "Low-Octane Fuel is OK for Rotary Engines", Automotive Engineering (SAE), Aug 1972, Vol 80, nº 8: 28–29.
+
+
+Bensinger, Wolf-Dieter (1973). 
+Rotationskolben-Verbrennungsmotoren
+ (in German). Berlin Heidelberg: Springer-Verlag. 
+ISBN
+ 
+978-3-642-52173-7
+.
+
+
+Reiner Nikulski: "The Norton rotor turns in my Hercules W-2000", "Sachs KC-27 engine with a catalyst converter", and other articles in: "Wankel News" (In German, from Hercules Wankel IG)
+
+
+"A WorldWide Rotary Update", Automotive Engineering (SAE), Feb 1978, Vol 86, n
+
+### CHUNK 87
+ engine with a catalyst converter", and other articles in: "Wankel News" (In German, from Hercules Wankel IG)
+
+
+"A WorldWide Rotary Update", Automotive Engineering (SAE), Feb 1978, Vol 86, nº 2: 31–42.
+
+
+B Lawton: 'The Turbocharged Diesel Wankel Engine', C68/78, of: 'Institution of Mechanical Engineers Conference Publications. 1978–2, Turbocharging and Turbochargers, 
+ISBN
+ 
+0 85298 395 6
+, pp 151–160.
+
+
+T Kohno et al. (Toyota): "Rotary Engine's Light-Load Combustion Improved", Automotive Engineering (SAE), Aug 1979: 33–38. Also in SAE paper 790435.
+
+
+Kris Perkins: 
+Norton Rotaries
+, 1991 Osprey Automotive, London. 
+ISBN
+ 
+1855321 81 5
+
+
+Karl Ludvigsen: 
+Wankel Engines A to Z
+, New York 1973. 
+ISBN
+ 
+0-913646-01-6
+
+
+Len Louthan (AAI corp.): 'Development of a Lightweight Heavy Fuel Rotary Engine', SAE paper 930682
+
+
+Rotary-Trochoidal Engine Nomenclature and Terminology - SAE J1220
+, Society of Automotive Engineers, June 1978
+
+
+Patents: 
+US 2988065
+ 
+, 1958 -Wankel; 
+US 3848574
+ 
+, 1974 -Kawasaki; 
+GB 1460229
+ 
+, 1974 -Ford; 
+US 3833321
+ 
+, 1974; 
+US 3981688
+ 
+, 1976 -Ford; 
+CA 1030743
+ 
+, 1978; 
+CA 1045553
+ 
+, 1979
+
+### CHUNK 88
+3833321
+ 
+, 1974; 
+US 3981688
+ 
+, 1976 -Ford; 
+CA 1030743
+ 
+, 1978; 
+CA 1045553
+ 
+, 1979 -Ford.
+
+
+Dun-Zen Jeng et al.: 'The Numerical Investigation on the Performance of Rotary Engine with Leakage, Different Fuels and Recess Sizes', SAE paper 2013-32-9160, and same author: 'The intake and Exhaust Pipe Effect on Rotary Engine Performance', SAE paper 2013-32-9161
+
+
+Wei Wu et al.: 'A Heat Pipe Assisted Air-Cooled Rotary Wankel Engine for Improved Durability, Power and Efficiency', SAE paper 2014-01-2160
+
+
+Alberto Boretti: 'CAD/CFD/CAE Modelling of Wankel Engines for UAV', SAE Technical Paper 2015-01-2466
+
+
+Korp, Dieter (1975). 
+Prokoll einer Erfindung - Der Wankelmotor
+ (in German). Stuttgart: Motorbuch Verlag Stuttgart. 
+ISBN
+ 
+3-87943-381-X
+.
+
+
+
+
+External links
+[
+edit
+]
+
+
+
+
+
+
+
+
+Wikimedia Commons has media related to 
+Wankel engine
+.
+
+
+
+
+U.S. patent 2,988,008
+
+
+"How Wankel Engines Work"
+. 
+howstuffworks.com
+. 9 February 2021
+. Retrieved 
+19 January
+ 2023
+.
+
+
+Scott, David (March 1960). 
+"Auto Engine Without Pistons"
+. 
+Popular Science
+. p. 82.
+
+
+Norbye, Jan P. (January 1967). 
+"Rivals to the Wankel: A Roundup of Rotary Engines"
+. 
+Popular Science
+. p. 80. Kauertz, Tschudi, Virmel, Mercer, Selwood,
+
+### CHUNK 89
+January 1967). 
+"Rivals to the Wankel: A Roundup of Rotary Engines"
+. 
+Popular Science
+. p. 80. Kauertz, Tschudi, Virmel, Mercer, Selwood, Jernaes examples.
+{{
+cite magazine
+}}
+:  CS1 maint: postscript (
+link
+)
+
+
+Ludvigsen, Karl
+ (2003). 
+"How Big Are Wankel Engines?"
+. Bentley Publishers.
+

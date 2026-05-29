@@ -1,0 +1,1997 @@
+Mazda motor vehicle engine
+
+
+
+
+
+
+Reciprocating internal combustion engine
+
+
+
+
+Skyactiv
+ (styled 
+SKYACTIV
+) is a brand name for a series of automobile technologies developed by 
+Mazda
+ to increase 
+fuel efficiency
+ and engine output. The initial announcement of the Skyactiv technologies included new engines, but has grown to include 
+transmissions
+, as well as complete 
+vehicle platforms
+, which have appeared in Mazda vehicles from 2011 onwards.
+
+
+
+
+
+
+The Mazda Sky concept
+[
+edit
+]
+
+
+The precursor of Skyactiv, which featured a Mazda Sky-G 2.3-liter 
+gasoline direct injection
+ engine, a Mazda Sky-D 2.2-liter diesel engine, a Sky-Drive automatic transmission, a 
+Mazda Kiyora
+ with Sky-G 1.3 engine and Sky-Drive automatic transmission, was unveiled at the 40th Tokyo Motor Show in 2008.
+ The Skyactiv concept features a revised suspension geometry, improved automatic and manual transmission, and various improvements to Mazda's L- engine such as direct injection, upgraded exhaust manifold, increased 
+compression ratio
+ for cleaner burn and higher 
+thermal efficiency
+, among other improvements. Mazda's previous chassis for the 
+Mazda3
+ and 
+Mazda6
+ were carried over to the new vehicles.
+
+
+
+Skyactiv-G
+[
+edit
+]
+
+
+Reciprocating internal combustion engine
+
+
+
+
+The 
+Skyactiv-G
+ is a family of 
+gasoline engines
+ (the "G" suffix indicates gasoline) featuring 
+gasoline direct injection
+ and high 
+compression ratios
+. Engines in the family have a compression ratio of up to 14:1, except in the United States where it is 13:1 to allow the use of regular gasoline; the lower compression reduces torque and fuel economy by 3 to 5 percent.
+ To suppress engine knock at high compression, residual gas is reduced using a 
+4-2-1 exhaust system
+, optimized piston cavities, and fuel injection control.
+ Combustion duration is shortened by increasing airflow, raising injection pressure, and using multi-hole injectors.
+
+
+Skyactiv-G engines use all-aluminum construction with chain-driven 
+dual overhead camshafts
+, 
+variable valve timing
+, and meet U.S. 
+ULEV
+ emission standards.
+
+
+
+
+1.3 L
+[
+edit
+]
+
+
+The 
+Skyactiv-G 1.3
+ (engine code 
+P3-VPS
+) is a 1,298 cc (79.2 cu in) 
+naturally aspirated
+, inline-four engine with a 71 mm (2.8 in) 
+bore
+ and a 82 mm (3.2 in) 
+stroke
+. It was unveiled at the 2011 Automotive Engineering Exposition.
+
+
+Five Mazda engineers were awarded the 2011 Japan Society of Mechanical Engineers Medal on 20 April 2012 for their work on this engine.
+
+
+It was first used in the 
+Mazda Demio
+/Mazda2, the only Skyactiv engine paired with a 
+CVT
+.
+ The engine produces 62 kW (83 hp) of power and 113 N⋅m (83 lb⋅ft) of torque.
+
+
+Applications:
+
+
+
+2011–present 
+Mazda2/Mazda Demio
+
+
+1.5 L
+[
+edit
+]
+
+
+The 
+Skyactiv-G 1.5
+ (engine codes 
+P5-VP (RS)
+ for RWD and 
+P5 VPS F-P5
+ for FWD) is a 1,496 cc (91.3 cu in) naturally aspirated inline-four with a 74.5 mm (2.93 in) bore and 85.8 mm (3.38 in) stroke. Introduced in the 2014 
+Mazda3
+ for Asian and European markets, it produces 85 kW (114 hp) of power at 6,000 rpm and 150 N⋅m (111 lb⋅ft) of torque at 4,000 rpm. The engine significantly improved performance and fuel economy compared with the previous MZR 1.5 engine.
+
+
+Applications:
+
+
+
+2014–present 
+Mazda Axela/Mazda3
+
+
+2014–present 
+Mazda Demio/Mazda2
+
+
+2016–present 
+Mazda Roadster/MX-5
+
+
+2016–present 
+Mazda2/Mazda Demio/Scion iA/Toyota Yaris iA/Toyota Yaris
+
+
+2020–present 
+Mazda CX-3
+
+
+2.0 L 
+[
+edit
+]
+
+
+Skyactiv-G 2.0
+
+
+The 
+Skyactiv-G 2.0
+ (engine code 
+PE-VPS
+) is a 1,998 cc (121.9 cu in) naturally aspirated inline-four engine. It has an 83.5 mm (3.29 in) 
+bore
+ and a 91.2 mm (3.59 in) 
+stroke
+.
+
+In the United States, the engine has a 13:1 
+compression ratio
+ that produces 116 kW (155 hp) of power at 6,000 rpm and 200 N⋅m (148 lbf⋅ft) of torque at 4,600 rpm.
+ A 
+flexible-fuel
+ variant increases output to 121 kW (162 hp) and 210 N⋅m (155 lbf⋅ft) when running on 
+E85
+ fuel.
+
+Compared with the previous engine in the 2011 
+Mazda3
+ (with an 
+automatic transmission
+), 
+fuel economy
+ improved from 10.2 to 8.4 L/100 km (23 to 28 mpg
+‑US
+) in city driving, and from 7.1 to 5.8 L/100 km (33 to 41 mpg
+‑US
+) on the highway.
+
+
+Applications:
+
+
+
+2012–present 
+Mazda Axela/Mazda3
+
+
+2013–2025 
+Mazda Atenza/Mazda6
+
+
+2013–present 
+Mazda CX-5
+
+
+2013–2018 
+Mazda Biante
+
+
+2013–2015 
+Mazda Premacy
+/Mazda5
+
+
+2015–present 
+Mazda CX-3
+
+
+2016–present 
+Mazda Roadster/MX-5
+
+
+2016–2024 
+Mazda CX-4
+ (China)
+
+
+2019–present 
+Mazda CX-30
+
+
+2023–present 
+Mazda CX-50
+ (China)
+
+
+2024–present 
+Mazda2/Mazda Demio
+
+
+ 2.5 L
+[
+edit
+]
+
+
+The 
+Skyactiv-G 2.5
+ (engine code 
+PY-VPS
+) is a 2,488 cc (151.8 cu in) naturally aspirated inline-four engine introduced in the 2013 
+Mazda 6
+. It has an 89.0 mm (3.50 in) bore and a 100.0 mm (3.94 in) stroke.
+
+In the United States, the 13:1 compression version produces 139 kW (187 hp) of power at 6,000 rpm and 252 N⋅m (186 lb⋅ft) of torque at 4,000 rpm.
+ Output was raised to 142 kW (191 hp) in 2023, with torque unchanged.
+ Since 2018, the engine has also featured 
+cylinder deactivation
+ for improved fuel economy.
+
+
+The engine is also used on Mazda's 
+plug-in hybrid
+ (PHEV) models, where it is marketed as the 
+e-Skyactiv PHEV
+, and paired with an electric motor mounted between the engine and transmission. In the 
+CX-60
+, it works with a 100 kW (134 hp) electric motor and a 17.8
+ 
+kWh 
+lithium-ion battery
+ for a combined 241 kW (323 hp) and 500 N⋅m (369 lb⋅ft).
+ In the 
+CX-70
+, 
+CX-80
+, and 
+CX-90
+ PHEVs, it is paired with a 129 kW (173 hp) motor and the same battery, producing 241 kW (323 hp) and 500 N⋅m (369 lbf⋅ft) on premium fuel, or 238 kW (319 hp) on regular.
+
+
+Applications:
+
+
+
+2013–2025 
+Mazda Atenza/Mazda6
+
+
+2013–present 
+Mazda CX-5
+
+
+2014–present 
+Mazda Axela/Mazda3
+
+
+2016–2025 
+Mazda CX-4
+
+
+2020–present 
+Mazda CX-30
+
+
+2022–present 
+Mazda CX-60
+
+
+2022–present 
+Mazda CX-60
+ PHEV
+
+
+2023–present 
+Mazda CX-50
+
+
+2023–present 
+Mazda CX-90
+ PHEV
+
+
+2024–present 
+Mazda CX-70
+ PHEV
+
+
+2024–present 
+Mazda CX-80
+ PHEV
+
+
+2.5 L Turbo
+[
+edit
+]
+
+
+The 
+turbocharged
+ version of the Skyactiv-G 2.5 (engine code 
+PY-VPTS
+) has a 10.5:1 compression ratio.
+ On premium fuel it produces 190 kW (255 hp) of power at 5,000 rpm and 430 N⋅m (317 lb⋅ft) of torque at 2,500 rpm, while on regular fuel output is reduced to 169 kW (227 hp) at 5,000 rpm and 420 N⋅m (310 lbf⋅ft) at 2,000 rpm.
+ Maximum boost pressure is 120 kPa (17 psi). To reduce 
+turbo lag
+, the engine uses specially designed exhaust passages and 
+butterfly valves
+ that route gases through smaller orifices at low rpm, allowing the turbocharger to spool more quickly. It also employs a unique 4-2-1 exhaust manifold to improve 
+exhaust scavenging
+ and a cooled 
+exhaust gas recirculation
+ system, both designed to reduce combustion chamber temperatures and allow for increased boost with better fuel economy.
+ 
+Intercooler
+ configuration varies by application: the 
+CX-5
+ and 
+CX-9
+ use an air-to-air intercooler, while the 
+Mazda3
+ and 
+CX-30
+ use an air-to-liquid intercooler integrated into the intake manifold to save space.
+
+Applications:
+
+
+
+2016–2024 
+Mazda CX-9
+
+
+2018–present 
+Mazda CX-8
+
+
+2018–2021 
+Mazda6
+
+
+2019–2025 
+Mazda CX-5
+
+
+2021–present 
+Mazda3
+
+
+2021–present 
+Mazda CX-30
+
+
+2023–present 
+Mazda CX-50
+
+
+ 3.3 L
+[
+edit
+]
+
+
+Skyactiv-G 3.3
+
+
+The 
+Skyactiv-G 3.3
+ (engine code 
+H3T
+) is a 
+longitudinal
+ 3,283 cc (200.3 cu in) turbocharged inline-six gasoline engine introduced in the 2023 
+Mazda CX-90
+. It has an 86.0 mm (3.39 in) bore and a 94.2 mm (3.71 in) stroke. It has a 12:1 compression ratio.
+
+The engine is offered in two versions. The lower-output version produces 209 kW (280 hp) of power and 450 N⋅m (332 lb⋅ft) of torque. The higher-output version produces 254 kW (341 hp) and 500 N⋅m (370 lbf⋅ft) on premium fuel, or 238 kW (319 hp) on regular.
+
+
+Applications:
+
+
+
+2022–present 
+Mazda CX-60
+
+
+2023–present 
+Mazda CX-90
+
+
+2024–present 
+Mazda CX-70
+
+
+2024–present 
+Mazda CX-80
+
+
+Skyactiv-X
+[
+edit
+]
+
+
+Reciprocating internal combustion engine
+
+
+
+
+Skyactiv-X
+ is the first commercial gasoline engine to use 
+homogeneous charge compression ignition
+ (HCCI), in which the fuel-air mixture ignites spontaneously when compressed by a smaller, separately ignited charge of fuel. This allows it to reach a compression ratio of 16:1, an improvement over the 14:1 ratio of the Skyactiv-G. The engine can operate much leaner than a conventional spark ignition engine, reducing fuel consumption and emissions.
+
+
+This engine targets 20-30% greater fuel efficiency by utilising HCCI technology. In order to handle ignition problems caused by compression ignition, each cylinder also incorporates a spark plug featuring Spark Controlled Compression Ignition (SPCCI) technology.
+ A small Roots-type supercharger further expands the compression ignition operating window by feeding more air into the engine, leaning out the mixture sufficiently for compression ignition even at higher speeds.
+
+
+SPCCI works by drawing in a lean, homogeneous air-fuel mixture, it then compresses the mixture until it approaches the point at which it would spontaneously detonate. A second injector then adds a secondary charge of fuel directly on the spark plug. This secondary charge is ignited by the spark plug, causing the cylinder pressure to very quickly rise to a point where the rest of the fuel undergoes compression ignition. The presence of the spark plug allows the engine to also operate as a spark-ignition engine under some operating conditions, such as high-speed high-load situations. Revealed June 5, 2019, the output is 132 kW (179 PS; 177 hp) and 224 N⋅m (165 lb⋅ft).
+
+
+Mazda is developing an inline-six variant of the Skyactiv-X, with displacements of 3.0 and 3.3 liters and a rear-wheel-drive layout. It was believed that production of the new engine would begin in 2022 with the 
+Mazda CX-60
+. However, according to 
+Road & Track
+ magazine, in the March 2022 edition of 
+Autocar
+ magazine Mazda Europe's Development & Engineering Senior Manager Joachim Kunz stated that there were no plans for a Mazda rear drive sedan, since Mazda was prioritizing SUV sales.
+
+
+
+
+ 2.0 L
+[
+edit
+]
+
+
+Applications:
+
+
+
+2019–present 
+Mazda3
+
+
+2019–present 
+Mazda CX-30
+
+
+Skyactiv-D
+[
+edit
+]
+
+
+Reciprocating internal combustion engine
+
+
+
+
+Skyactiv-D (SH-VPTR) Diesel engine (For 
+Mazda 6
+)
+
+
+Skyactiv-D
+ is a family of turbocharged diesel engines, designed to comply with global emissions regulations.
+
+To eliminate the need of NOx and particulate treatment in contemporary diesel engines, the cylinder compression ratio is reduced to 14.0:1. Cold engine start is achieved via multi-hole piezo injectors with 3 programmable injection patterns, and adoption of ceramic glow plugs. Engine misfiring is prevented via variable valve lift at exhaust, which opens exhaust valves during the intake stroke, which in turn increases engine air temperature. The Skyactiv-D also uses a 
+two-stage turbocharger
+, in which one small and one large turbo are selectively operated, according to driving conditions.
+
+
+
+ 1.5 L
+[
+edit
+]
+
+
+The Skyactiv-D 1.5 
+(S5-DPTS/S5-DPTR)
+ is a 1,497 cc (91.4 cu in) engine first introduced in the 
+fourth generation Mazda Demio/Mazda2
+. It features a compression ratio of 14:1.
+
+
+
+
+SKYACTIV-D 1.5
+[
+edit
+]
+
+
+
+
+Applications:
+
+
+
+2014–present 
+Mazda Demio/Mazda2
+
+
+2014–2018 
+Mazda Axela/Mazda3
+
+
+2015–2018 
+Mazda CX-3
+
+
+ 1.8 L
+[
+edit
+]
+
+
+The Skyactiv-D 1.8 
+(S8-DPTS/S8-DPTR)
+ is a 1,759 cc (107.3 cu in) that was introduced in the 2018 facelifted 
+Mazda CX-3
+.
+
+
+
+
+SKYACTIV-D 1.8
+[
+edit
+]
+
+
+
+
+Applications:
+
+
+
+2018–present 
+Mazda CX-3
+
+
+2019–present 
+Mazda3
+
+
+2019–present 
+Mazda CX-30
+
+
+ 2.2 L
+[
+edit
+]
+
+
+The Skyactiv-D 2.2 
+(SH-VPTS/SH-VPTR)
+ is a 2,191 cc (133.7 cu in) engine that was the first Skyactiv-D engine used in production vehicles. It was first used in the 
+Mazda CX-5
+.
+ In the Mazda6, it produces 129 kW (173 hp) and 420 N⋅m (310 lb⋅ft).
+ An upgraded version of the Skyactiv-D was run in the 
+2013 Rolex Sports Car Series season
+ and helped Mazda win the GX manufacturer's championship. The engine is slated to be used again in two Lola LMP2s in the 
+United SportsCar Series
+.
+
+
+
+
+
+Applications:
+
+
+
+2012–present 
+Mazda CX-5
+
+
+2012–present 
+Mazda6
+
+
+2013–2018 
+Mazda3
+
+
+2017–present 
+Mazda CX-8
+
+
+ 3.3 L
+[
+edit
+]
+
+
+The Skyactiv-D 3.3 is a longitudinally positioned, inline-six 3,287 cc (200.6 cu in) engine that was introduced in the 
+Mazda CX-60
+ in 2022.
+
+
+
+
+
+
+Applications:
+
+
+
+2022–present 
+Mazda CX-60
+
+
+2024–present 
+Mazda CX-80
+
+
+2023–present 
+Mazda CX-90
+
+
+Unique technology
+[
+edit
+]
+
+
+The Skyactiv-D is the first low compression diesel in a production car, having a significantly lower compression in the first generation of 14:1 rather than typical compression ratios of 16:1 and beyond.
+ Numerous university studies have investigated the benefits of low compression diesel for decades, with the major benefit, noted in single cylinder university tests, being a drastic reduction in NOx emissions while also reducing particulate matter and combustion noise.
+ These studies all concluded that while there were noticeable reductions in emissions, this came at the expense of difficult cold starts. Mazda resolved this in the Skyactiv-D by using piezoelectric fuel injectors with multiple nozzles that change their pattern depending on operating conditions. Furthermore, exhaust valves are left slightly open as the engine starts, causing exhaust gases to be sucked into the cylinders and help the engine warm up quickly.
+
+
+
+
+Early issues
+[
+edit
+]
+
+
+The CX-5 with Skyactiv-D engines were reported to have oil levels rising earlier than expected upon release, which required owners to check the vehicle's engine oil every 1000 kilometres or every month and return to the dealer if the oil appeared over the level of the dipstick.
+ This procedure was initiated by Mazda worldwide as a precaution. Mazda resolved the issue in the first few months of the engine's availability via a software revision and a new dipstick with a corrected level.
+
+
+This was later found out to be false, the core issue being the injector seals – the method Mazda employed to secure these did not result in sufficient clamping force whenever a low-temperature Diesel Particulate Filter regeneration cycle was triggered, leading to exhaust leaking into the valvecover and contaminating the oil. In addition, it also overpressurized the engine block resulting in high volumes of unmetered fuel/oil mixture re-entering the combustion chamber.
+
+
+The end result was either a clogged oil pickup resulting in engine failure, or a very costly feedback loop of extreme cylinder pressures, clogged up intake manifold, ash filled particulate filter, the exhaust- and intake manifold pressure sensors, and a skyrocketing fuel consumption due to near constant regeneration cycles.
+
+
+Mazda officially refuses to acknowledge this, except for the Australian market,
+ even though there are several different Mazda Service Information documents on the issue, and resolving it. Most notably M001/007A which documents the new SHY1-13-148A injector nut/washer fastening procedure.
+
+
+
+
+Emission standards and tests
+[
+edit
+]
+
+
+At launch in 2012, Mazda claimed the Skyactiv-D engine would only comply with 
+Euro 5 emission standards
+ (NOx of 0.18 g/km), and further work was required to achieve stricter emission standards.
+
+
+In the aftermath of the 
+Volkswagen emissions scandal
+, the Japanese government performed testing of all diesel engines produced in Japan to ensure Japanese manufacturers were not falsifying emissions as had been done by Volkswagen. It was determined that the Skyactiv-D engine was the only engine which tested at or near the standard.
+
+
+
+
+Achieving US EPA emission standards
+[
+edit
+]
+
+
+At the 2019 New York Motor show, Mazda announced that it would commence pre-sales of the 2019 CX-5 with the Skyactiv-D 2.2L engine.
+ Changes required to achieve the US EPA emissions standards, however, resulted in significant performance and economy penalties when compared with the Euro 5 compliant engine, as illustrated below.
+
+The Euro stage V compliant Australian Skyactiv-D 2.2L has the following specifications:
+
+
+
+
+Power: 140 kW (188 hp) at 4,500 rpm
+
+
+Torque: 450 N⋅m (330 lbf⋅ft) at 2,000 rpm
+
+
+Fuel consumption (Australian ADR 81/02)
+
+Combined 5.7 L/100 km (41.3 mpg)
+
+
+City 6.5 L/100 km (36.2 mpg)
+
+
+Highway 5.2 L/100 km (45.2 mpg)
+
+
+The US EPA compliant US Skyactiv-D 2.2l has the following specifications:
+
+
+
+
+Power: 125 kW (168 hp) at 4,000 rpm
+
+
+Torque: 390 N⋅m (290 lb⋅ft) at 2,000 rpm
+
+
+EPA Estimated fuel economy:
+
+City 27 mpg
+‑US
+ (8.7 L/100 km; 32 mpg
+‑imp
+)
+
+
+Highway 30 mpg
+‑US
+ (7.8 L/100 km; 36 mpg
+‑imp
+)
+
+
+Recall
+[
+edit
+]
+
+
+In September 2016, Mazda recalled 130,000 vehicles in Japan over a defect that could lead to diesel engine failure.
+
+
+Although most problems were fixed later on, the 2.2 suffered from bad carbon build up that would block the intake manifold. Other faults include a turbo diversion valve failure that required replacement of the complete twin turbo unit.
+
+Mazda recalled the 2012 to 2018 model year diesel Mazda 3, Mazda 6 and CX-5 because of a build-up of carbon deposits.
+
+
+
+
+Skyactiv-Hybrid
+[
+edit
+]
+
+
+The Skyactiv-Hybrid technology is an electric hybrid engine technology using Skyactiv-G engine with technology from Toyota's 
+Hybrid Synergy Drive
+, originally licensed for use with the Sky engine for vehicles sold in 2013.
+
+
+The first retail Mazda Skyactiv-Hybrid vehicle, a 
+Mazda3
+ Skyactiv-Hybrid with Skyactiv-G 2.0 engine with 14:1 compression, was unveiled at the 2013 Tokyo Motor Show.
+
+
+
+
+Skyactiv-CNG
+[
+edit
+]
+
+
+The Skyactiv-CNG engine is powered by compressed natural gas. The first retail Mazda Skyactiv-CNG prototype vehicle, a Mazda3 Skyactiv-CNG Concept, was unveiled in the 2013 Tokyo Motor Show.
+
+
+
+
+Skyactiv-R
+[
+edit
+]
+
+
+The Skyactiv-R engine is Mazda's new generation 
+rotary engine
+.
+
+The Mazda RX-Vision Concept, powered by a Skyactiv-R rotary engine, was unveiled in 2015 Tokyo Motor Show.
+
+
+In 2023, Mazda unveiled the first production version of this generation of rotary engines. Used in the Mazda MX-30 R-EV, the engine provides 56 kW (75 hp) at 4500 rpm and has a displacement of 830 cc in a single-rotor design.
+
+
+
+
+e-Skyactiv
+[
+edit
+]
+
+
+e-Skyactiv is the battery-electric powertrain.
+
+
+Applications:
+
+
+
+2020–present 
+Mazda MX-30
+
+
+e-Skyactiv-G
+[
+edit
+]
+
+
+e-Skyactiv-G is the first Mild Hybrid powertrain.
+
+Applications:
+
+
+
+2019–present 
+Mazda3
+
+
+2019–present 
+Mazda CX-30
+
+
+2023 - present 
+Mazda CX-5
+
+
+Skyactiv-Z
+[
+edit
+]
+
+
+
+
+
+
+The Skyactiv-Z engine was developed to replace the Skyactiv-G and Skyactiv-X engines. It is a hybrid 2.5-liter inline-four gasoline engine designed to meet stringent emission standards, including Euro 7 and North America's LEV4 and Tier 4 regulations. The engine aims to deliver improved fuel efficiency and enhanced performance, while maintaining affordability for mass-market vehicles.
+
+Engine Type: 2.5-liter inline-four gasoline hybrid
+
+Emission Standards: Euro 7, LEV4, Tier 4
+
+Performance Goals: Improved fuel efficiency, enhanced driving performance
+
+Applications:
+
+
+
+2027 Mazda CX-5 Hybrid
+
+
+Skyactiv-Drive
+[
+edit
+]
+
+
+Skyactiv-Drive
+ is a family of automatic transmissions named SKY-Drive. Mazda rejected 
+dual-clutch
+ technology in automatic transmissions because the dual-clutch behavior in certain situations was sub-optimal.
+ Instead, Mazda chose to re-design the conventional 
+automatic transmission
+, making the 
+torque converter
+ take less duty while a 
+multi-plate clutch
+ disengages the torque converter most of the time. The new Skyactiv automatic transmission is designed to have six or eight gears forward, one reverse gear, a short torque converter, and a clutch integrated with the torque converter.
+
+
+
+
+Skyactiv-MT
+[
+edit
+]
+
+
+Skyactiv-MT
+ is a family of manual transmissions. To achieve lighter shift effort with a short shift lever stroke, the lever ratio is increased. However, to overcome the shorter internal stroke, a small module spline is used. Shift throws are reduced by 15 percent, making it the shortest shifting of any passenger car.
+
+
+To reduce weight, the triple-shafted gear train is designed with the reverse and first gears on the same shaft, and uses a shorter secondary shaft.
+
+
+
+Skyactiv Multi-Solution Scalable Architecture
+[
+edit
+]
+
+
+The 
+Skyactiv Multi-Solution Scalable Architecture
+ is a 
+car platform
+ that supports both front-wheel drive models with a 
+transverse engine
+ layout (under the Small Product Group) and rear-wheel drive cars with a 
+longitudinal engine
+ layout (under the Large Product Group).
+
+
+
+
+Small Product Group
+[
+edit
+]
+
+
+The 
+Small Product Group
+ underpins 
+front-wheel drive
+ and 
+all-wheel drive
+ vehicles with a transverse engine layout.
+
+Applications:
+
+
+
+2019–present 
+Mazda3
+
+
+2019–present 
+Mazda CX-30
+
+
+2020–present 
+Mazda MX-30
+
+
+2022–present 
+Mazda CX-50
+
+
+Large Product Group
+[
+edit
+]
+
+
+The 
+Large Product Group
+ underpins 
+rear-wheel drive
+ and all-wheel drive vehicles with a longitudinal engine layout.
+
+
+Applications:
+
+
+
+2022–present 
+Mazda CX-60
+
+
+2023–present 
+Mazda CX-90
+
+
+2024–present 
+Mazda CX-70
+
+
+2024–present 
+Mazda CX-80
+
+
+References
+[
+edit
+]
+
+
+
+
+^
+ 
+"Mazda groups suite of new technologies under the "Skyactiv" umbrella"
+. 
+Autoblog
+. 21 October 2010
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"【MAZDA】ニュース"
+. 
+Mazda
+. Archived from 
+the original
+ on 17 May 2013
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"Mazda Reveals Next-Generation 'SKYACTIV' Technologies – News Releases"
+. 
+Mazda
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"MAZDA: Mazda Global Premiere of Eco-Friendly and Powerful Next Generation 'SKY-G' and 'SKY-D' Engines at Tokyo Motor Show 2009 – News Releases"
+. 
+Mazda
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"【MAZDA】ニュース"
+. 
+Mazda
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"Prototype Mazda3 with 2.0L Sky-G engine gets 30/40 mpg"
+. 
+Autoblog.com
+. September 2010
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"Mazda Skyactiv-G and Skyactiv-D Engines in Detail"
+. 
+Car and Driver
+. 30 August 2010
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"Mazda Develops Highly Efficient "SKYACTIV-G 1.3" Direct-Injection Gasoline Engine – News Releases"
+. 
+Mazda
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"【MAZDA】ニュース"
+. 
+Mazda
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"Skyactiv Tech Wins 2011 Japan Society of Mechanical Engineers Medal"
+. 
+Integrity Exports
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"Pre-Orders Start for Facelifted Mazda Demio in Japan – News Releases"
+. 
+Mazda
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"【MAZDA】ニュース"
+. 
+Mazda
+. Archived from 
+the original
+ on 25 August 2013
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"Mazda 2 with New 1.3-liter SKYACTIV-G Engine Gets Claimed 50-Percent Mileage Boost"
+. 
+Car and Driver
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"Mazda MX-5 Miata RF Club, 2017 MY US"
+. 
+carfolio.com
+. 22 February 2017
+. Retrieved 
+27 July
+ 2018
+.
+
+
+
+
+^
+ 
+"Turning Up the Pressure to Keep Gas in the Game"
+. 
+New York Times
+. 11 November 2011
+. Retrieved 
+14 November
+ 2011
+. 
+But the most daring advance is the 2-litre Skyactiv-G gasoline engine. That 4-cylinder power plant made its North American debut in the 2012 Mazda 3, where it raised the fuel economy rating to 8.5 L/100km in town and 5.8 on the highway with an automatic transmission, from 24/33 for the 2011 model sedan with a 2-litre engine. ...
+
+
+
+
+^
+ 
+"2021 Mazda3: Well-Suited with Added Powertrains"
+. US: Mazda. 8 July 2020.
+
+
+
+
+^
+ 
+"2023 Mazda3 Review: The premium performance sweet spot"
+. 
+Autoblog
+. 29 August 2022
+. Retrieved 
+2 May
+ 2023
+.
+
+
+
+
+^
+ 
+"Mazda's New Technology Makes Skyactiv-G Even Better"
+. 
+Mazda
+. 20 December 2017
+. Retrieved 
+21 December
+ 2020
+.
+
+
+
+
+^ 
+ 
+ 
+ 
+ 
+ 
+Wong, James (8 March 2022). 
+"2023 Mazda CX-60 officially revealed"
+. 
+CarExpert
+. Retrieved 
+9 March
+ 2022
+.
+
+
+
+
+^
+ 
+Smith, Christopher (31 January 2023). 
+"2024 Mazda CX-90 Debuts: Three-Row Hybrid SUV With Miata Tech, 340-HP I6"
+. 
+Motor1
+. Retrieved 
+1 February
+ 2023
+.
+
+
+
+
+^ 
+ 
+ 
+"2024 Mazda CX-90 debuts – new three-row SUV; 3.3L turbo mild hybrid inline-six, 2.5L PHEV; standard AWD – paultan.org"
+. 
+Paul Tan's Automotive News
+. 1 February 2023
+. Retrieved 
+2 February
+ 2023
+.
+
+
+
+
+^
+ 
+"2020 Mazda CX-9 Digital Owner's Manual"
+. 
+Mazda
+ USA
+. Retrieved 
+28 October
+ 2020
+.
+
+
+
+
+^
+ 
+"2021 Mazda CX-5 and CX-9 Turbo Engine Performance"
+. 
+Autoblog
+. Retrieved 
+31 August
+ 2025
+.
+
+
+
+
+^
+ 
+Witzenburg, Gary (9 November 2017). 
+"Mazda's Innovative 4-Cyl. Engine Pulls Like Big V-6"
+. 
+Ward's
+. Retrieved 
+5 June
+ 2021
+.
+
+
+
+
+^
+ 
+Anderson, Brad (13 October 2022). 
+"2023 Mazda CX-60 Gets Three Engines In Australia, 3.3L Turbo Straight-6 Makes Only 280HP"
+. 
+Carscoops
+. Retrieved 
+14 October
+ 2022
+.
+
+
+
+
+^
+ 
+Fink, Greg S. (7 October 2024). 
+"Our Long-Term Mazda CX-90 Puts the "Um" in "Premium"
+"
+. 
+Car and Driver
+. Hearst Autos, Inc. Archived from 
+the original
+ on 3 December 2024.
+
+
+
+
+^
+ 
+Smith, Christopher (31 January 2023). 
+"2024 Mazda CX-90 Debuts: Three-Row Hybrid SUV With Miata Tech, 340-HP I6"
+. 
+Motor1
+. Retrieved 
+1 February
+ 2023
+.
+
+
+
+
+^
+ 
+"Mazda Announces Long-Term Vision for Technology Development, 'Sustainable Zoom-Zoom 2030' – News Releases"
+. 
+Mazda
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"Next-Generation Skyactiv-X gasoline engine"
+. 
+Mazda
+. Retrieved 
+2 April
+ 2018
+.
+
+
+
+
+^ 
+ 
+ 
+Engineering Explained (13 August 2017), 
+Mazda Creates The Holy Grail Of Gasoline Engines – HCCI SkyActiv-X
+, retrieved 
+13 August
+ 2017
+
+
+
+
+^
+ 
+"Driving Mazda's Next Mazda 3 with Its Skyactiv-X Compression-Ignition Gas Engine"
+. 
+Car and Driver
+. Retrieved 
+29 January
+ 2021
+.
+
+
+
+
+^
+ 
+Perkins, Chris (21 March 2022). 
+"The Rear-Drive I-6 Mazda6 Isn't Happening"
+. 
+Road & Track
+. Retrieved 
+21 July
+ 2022
+.
+
+
+
+
+^
+ 
+"Next Mazda2 will Feature New SKYACTIV-D 1.5 Small-Displacement Clean Diesel Engine"
+. 
+Mazda
+. 10 June 2014
+. Retrieved 
+12 November
+ 2018
+.
+
+
+
+
+^
+ 
+BeckWith, Jimi (22 August 2018). 
+"Facelifted Mazda CX-3 arrives with first 1.8 Skyactiv-D engine"
+. 
+Autocar
+. Retrieved 
+12 November
+ 2018
+.
+
+
+
+
+^
+ 
+"Mazda to Introduce Next-Generation Clean Diesel Vehicles in Japan – News Releases"
+. 
+Mazda
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"【MAZDA】ニュース"
+. 
+Mazda
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"2014 Mazda 6 2.5L / 2.2L Diesel"
+. 
+Car and Driver
+. 5 October 2012
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"新型クロスオーバーSUV「MAZDA CX-60」の日本仕様を初公開"
+. 
+マツダ ニュースリリース
+ (in Japanese). 5 May 2019
+. Retrieved 
+10 April
+ 2022
+.
+
+
+
+
+^
+ 
+"GLOBAL DEBUT FOR FIRST-EVER MAZDA CX-90"
+. 
+www.mazda.com.au
+. Retrieved 
+18 March
+ 2023
+.
+
+
+
+
+^ 
+ 
+ 
+"Difference Engine: Born again"
+. 
+The Economist
+. 8 July 2013. 
+ISSN
+ 
+0013-0613
+. Retrieved 
+2 May
+ 2019
+.
+
+
+
+
+^
+ 
+Pacaud, P.; Perrin, H.; Laget, O. (2009). "Cold Start on Diesel Engine: Is Low Compression Ratio Compatible with Cold Start Requirements?". 
+SAE International Journal of Engines
+. 
+1
+ (1): 
+831–
+849. 
+doi
+:
+10.4271/2008-01-1310
+. 
+ISSN
+ 
+1946-3936
+. 
+JSTOR
+ 
+26308324
+.
+
+
+
+
+^
+ 
+"A survey on low compression ratio diesel engine"
+. 
+ResearchGate
+. Retrieved 
+2 May
+ 2019
+.
+
+
+
+
+^
+ 
+"Backlash over Mazda CX-5 diesel oil issues"
+. 
+Drive.com.au
+. Archived from 
+the original
+ on 6 March 2014
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"Mazda Recalls 35,000 Diesel Powered Vehicles"
+. 
+Australian Automotive Aftermarket Association
+. 15 October 2019. 
+Archived
+ from the original on 23 March 2020
+. Retrieved 
+8 March
+ 2025
+.
+
+
+
+
+^
+ 
+Schmitt, Bertel (5 March 2016). 
+"Japan Releases (Nasty) Diesel Test Results, Germany Sits On Them"
+. 
+Forbes
+. Retrieved 
+2 May
+ 2019
+.
+
+
+
+
+^
+ 
+"Mazda announces CX-5 diesel sales start in North America"
+. 
+Mazda
+. Retrieved 
+2 May
+ 2019
+.
+
+
+
+
+^
+ 
+"Mazda CX-5 | Specs & Prices"
+. 
+Mazda
+ Australia
+. Retrieved 
+2 May
+ 2019
+.
+
+
+
+
+^
+ 
+"Reserve 2019 MAZDA CX-5 SIGNATURE SKYACTIV-D"
+. 
+Mazda
+ USA
+. Retrieved 
+2 May
+ 2019
+.
+
+
+
+
+^
+ 
+Horie, Masatsugu (1 September 2016). 
+"Mazda Recalls Japan Diesel Models"
+. 
+Bloomberg L.P.
+ Retrieved 
+1 October
+ 2016
+.
+
+
+
+
+^
+ 
+"Mazda 3, 6, CX-5 recalled"
+. 
+CarAdvice.com
+. Retrieved 
+10 June
+ 2020
+.
+
+
+
+
+^
+ 
+"トヨタとマツダ、ハイブリッドシステムの技術ライセンス供与に合意"
+ 
+(PDF)
+. 
+Mazda
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"TMC and Mazda Agree to Hybrid System Technology License"
+ 
+(PDF)
+. 
+Mazda
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^ 
+ 
+ 
+"Mazda3 Skyactiv-Hybrid and CNG Concept shown in Japan"
+. 
+Autoblog
+. 21 November 2013
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^ 
+ 
+ 
+"Mazda3 to showcase CNG, Hybrid versions in Tokyo"
+. 
+Autoblog
+. 22 October 2013
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"【MAZDA】マツダ、東京モーターショーに新型「アクセラ」を出品|ニュースリリース"
+. 
+Mazda
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"MAZDA: Mazda to Exhibit All-New Mazda3 at Tokyo Motor Show – News Releases"
+. 
+Mazda
+. Retrieved 
+13 July
+ 2018
+.
+
+
+
+
+^
+ 
+"Mazda Reveals Mazda RX-VISION Concept"
+. 
+Mazda
+. 5 May 2019
+. Retrieved 
+22 February
+ 2020
+.
+
+
+
+
+^
+ 
+Aucock, Richard (12 May 2023). 
+"Tech Insider: Mazda, rotary returns"
+. 
+Automotive Power Technology International
+. Retrieved 
+15 January
+ 2024
+.
+
+
+
+
+^
+ 
+"Mazda MX-30 – An electric car for the environment.... and the driver"
+. 
+Mazda
+. 23 October 2019. Archived from 
+the original
+ on 18 November 2019
+. Retrieved 
+27 May
+ 2020
+.
+
+
+
+
+^
+ 
+Swan, Tony (February 2013). 
+"2014 Mazda 6 2.5L – First Drive Review"
+. 
+Car and Driver
+. Retrieved 
+2 April
+ 2014
+. 
+The engineering team nixed a CVT option early on and then decided against a dual-clutch type a little later in the planning process. The reasoning: A dual-clutch automated manual delivers sportier performance, but Mazda felt it was a little abrupt for everyday urban driving. As a result, the new self-shifter is a conventional automatic, with paddle shifters available in higher trim levels.
+
+
+
+
+^
+ 
+Halvorson, Bengt (8 October 2011). 
+"Mazda Rejects DSGs, Redefines Automatic Transmissions Instead"
+. 
+Motor Authority
+. High Gear Media
+. Retrieved 
+2 April
+ 2014
+.
+
+
+
+
+^
+ 
+"Mazda: Skyactiv-Mt | Skyactiv Technology"
+.
+
+
+
+
+^
+ 
+"Mazda unveils plans for EV architecture, new hybrid and PHEV models"
+. 
+CarExpert
+. 17 June 2021
+. Retrieved 
+7 May
+ 2023
+.
+
+
+
+
+^
+ 
+"Mazda News: Mazda Will Add Three All-New SUV Models Added Over Next Two Years"
+. 
+www.theautochannel.com
+. Retrieved 
+7 May
+ 2023
+.
+
+
+
+
+^
+ 
+Roberts, Graeme (22 November 2022). 
+"New Mazda PHEV reorientates driveline"
+. 
+Just Auto
+. Retrieved 
+7 May
+ 2023
+.
+
+
+
+
+^
+ 
+"Mazda Announces New Technology and Product Policy towards 2030, Based on Sustainable Zoom-Zoom 2030"
+. 
+Mazda
+. 17 June 2021
+. Retrieved 
+9 March
+ 2022
+.
+
+
+
+
+
+
+External links
+[
+edit
+]
+
+
+Mazda SkyActiv Technology page
+
+
+Mazda Canada SkyActiv Technology page
